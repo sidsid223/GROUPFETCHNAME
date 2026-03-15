@@ -1,0 +1,2273 @@
+<html class=" responsive DesktopUI" lang="en"><head><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/js/angular/styles.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/css/flag-icon.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/css/fonts/roboto.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/css/fonts/manrope.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/js/jquery/pagination.css" rel="stylesheet" type="text/css">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>🛡️ Friendly Reminder: Stay Safe Around this profiles :: VANGUARD / PrivateD</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	
+	<link href="https://community.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=G517uopaUy8x&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/shared/css/buttons.css?v=WgcGW2rjIiQ0&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/shared/css/shared_global.css?v=f56qj9GlMzaW&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/css/globalv2.css?v=YdooKT9oS9ho&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/css/skin_1/calendar.css?v=tJwT7D4vxxNm&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/css/skin_1/modalContent.css?v=WXAusLHclDIt&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/css/skin_1/forums.css?v=tP-os6y53ubW&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/css/skin_1/groupv2.css?v=BYMUODZj4ZjO&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=coQhkO36KXPQ&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<link href="https://community.akamai.steamstatic.com/public/css/skin_1/header.css?v=CMT0GkdQa1OT&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+	var __PrototypePreserve=[];
+	__PrototypePreserve[0] = Array.from;
+	__PrototypePreserve[1] = Array.prototype.filter;
+	__PrototypePreserve[2] = Array.prototype.flatMap;
+	__PrototypePreserve[3] = Array.prototype.find;
+	__PrototypePreserve[4] = Array.prototype.some;
+	__PrototypePreserve[5] = Function.prototype.bind;
+	__PrototypePreserve[6] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/prototype-1.7.js?v=npJElBnrEO6W&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript">
+	Array.from = __PrototypePreserve[0] || Array.from;
+	Array.prototype.filter = __PrototypePreserve[1] || Array.prototype.filter;
+	Array.prototype.flatMap = __PrototypePreserve[2] || Array.prototype.flatMap;
+	Array.prototype.find = __PrototypePreserve[3] || Array.prototype.find;
+	Array.prototype.some = __PrototypePreserve[4] || Array.prototype.some;
+	Function.prototype.bind = __PrototypePreserve[5] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __PrototypePreserve[6] || HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript">
+	var __ScriptaculousPreserve=[];
+	__ScriptaculousPreserve[0] = Array.from;
+	__ScriptaculousPreserve[1] = Function.prototype.bind;
+	__ScriptaculousPreserve[2] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/scriptaculous/_combined.js?v=pbdAKOcDIgbC&amp;l=english&amp;_cdn=akamai&amp;load=effects,controls,slider,dragdrop"></script>
+<script type="text/javascript">
+	Array.from = __ScriptaculousPreserve[0] || Array.from;
+	Function.prototype.bind = __ScriptaculousPreserve[1] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __ScriptaculousPreserve[2] || HTMLElement.prototype.scrollTo;
+delete String['__parseStyleElement'];  Prototype.Browser.WebKit = true;</script>
+<script type="text/javascript">VALVE_PUBLIC_PATH = "https:\/\/community.akamai.steamstatic.com\/public\/";</script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/global.js?v=MfVq5GrXHLTF&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/jquery-1.11.1.min.js?v=gQHVlrK4-jX-&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/shared/javascript/tooltip.js?v=k5leO7MVvAaV&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/shared/javascript/shared_global.js?v=MZ63Bj2bxVCi&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/shared/javascript/auth_refresh.js?v=w6QbwI-5-j2S&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript">Object.seal && [ Object, Array, String, Number ].map( function( builtin ) { Object.seal( builtin.prototype ); } );</script><script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/community.akamai.steamstatic.com\/public\/javascript\/json2.js?v=54NKNglvGTO8&amp;l=english&amp;_cdn=akamai\"><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} );
+		});
+		</script><script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/modalv2.js?v=zBXEuexVQ0FZ&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/calendar.js?v=Dyeq3pn7LkSW&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/group.js?v=D-bxrTiDM42P&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/forums.js?v=2TfOAmmxauFF&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/modalContent.js?v=Ebc6wsFpyW7y&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/reportedcontent.js?v=QnAY-KrX3Moe&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/webui/clientcom.js?v=KCLiartGh1FW&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=htU2ZedfDXGF&amp;l=english&amp;_cdn=akamai"></script>
+
+						<meta name="twitter:card" content="summary">
+					<meta name="Description" content="📣 Everyone 📣 It's always good to stay alert when you're contacted by profiles you don't recognize. Sometimes, accounts might act strangely or send you links to sites you’ve never seen before. If something doesn’t sit right with you, it’s perfectly fine to walk away or ignore the message altogether. A few profiles have been brought to our attention by others in the group — they mentioned possible scams or odd behavior.">
+			
+	<meta name="twitter:site" content="@steam">
+
+						<meta property="og:title" content="🛡️ Friendly Reminder: Stay Safe Around this profiles :: VANGUARD / PrivateD">
+					<meta property="twitter:title" content="🛡️ Friendly Reminder: Stay Safe Around this profiles :: VANGUARD / PrivateD">
+					<meta property="og:type" content="website">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:description" content="📣 Everyone 📣 It's always good to stay alert when you're contacted by profiles you don't recognize. Sometimes, accounts might act strangely or send you links to sites you’ve never seen before. If something doesn’t sit right with you, it’s perfectly fine to walk away or ignore the message altogether. A few profiles have been brought to our attention by others in the group — they mentioned possible scams or odd behavior.">
+					<meta property="twitter:description" content="📣 Everyone 📣 It's always good to stay alert when you're contacted by profiles you don't recognize. Sometimes, accounts might act strangely or send you links to sites you’ve never seen before. If something doesn’t sit right with you, it’s perfectly fine to walk away or ignore the message altogether. A few profiles have been brought to our attention by others in the group — they mentioned possible scams or odd behavior.">
+			
+	
+			<link rel="image_src" href="https://avatars.akamai.steamstatic.com/72b7d0046cf84cd0b8b08ed495e47052c0a3338e_full.jpg">
+		<meta property="og:image" content="https://avatars.akamai.steamstatic.com/72b7d0046cf84cd0b8b08ed495e47052c0a3338e_full.jpg">
+		<meta name="twitter:image" content="https://avatars.akamai.steamstatic.com/72b7d0046cf84cd0b8b08ed495e47052c0a3338e_full.jpg">
+				
+	
+	
+	
+	
+	<link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/js/siteExt/miniProfileHover.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/css/jquery-ui.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/css/switcher.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/js/flicking/flicking.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/js/flicking/flicking-inline.css" rel="stylesheet" type="text/css"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/js/flicking/flicking-plugins.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~8f4f68fd6.css?contenthash=608c28041b090a94c5ae"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/greenenvelope.css?contenthash=31af4ce18cebd2b3857f"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~215b3e016.css?contenthash=0c1505481373fe7e7ab1"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~642602239.css?contenthash=bb3067065e02b1cdfa0f"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~69438e232.css?contenthash=c61ec784d83fc376796b"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~52ce742d4.css?contenthash=169f209064434eb0f916"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~afc01df82.css?contenthash=031b1424fe0eefd3d4c7"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~b380c79eb.css?contenthash=536bc1f7d954726a7ffe"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~d30b9f0f1.css?contenthash=7026c9963b2914fddd6b"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/chunk~b1f9f17fd.css?contenthash=e4bf06c7fe1b32b6a94d"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/events.css?contenthash=558bc776601a931c1489"><link href="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/js/siteExt/sihGlobalHeader.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="https://community.akamai.steamstatic.com/public/css/applications/community/communityawardsapp.css?contenthash=22ac5b6c8bb25b4c2aaa"><style>.sih-sub-modal[_ngcontent-ng-c3028871913]{display:flex;width:900px;max-height:96vh;box-sizing:border-box;overflow:auto;padding:36px;flex-direction:column;align-items:flex-start;gap:44px;border-radius:8px;background:var(--Grey-650, #1d2529)}.sih-sub-modal[_ngcontent-ng-c3028871913]::-webkit-scrollbar{display:none}.sih-sub-modal[_ngcontent-ng-c3028871913]   *[_ngcontent-ng-c3028871913]{box-sizing:border-box}.sih-sub-modal[_ngcontent-ng-c3028871913]   .no-sub-header[_ngcontent-ng-c3028871913]{display:flex;flex-direction:column;gap:20px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .no-sub-header__title[_ngcontent-ng-c3028871913]{color:var(--primary-White, #fff);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-4, 40px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-4, 48px);letter-spacing:-1px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .no-sub-header__desc[_ngcontent-ng-c3028871913]{color:var(--Colors-ContentTextGray, #59666e);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-8, 16px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-9, 20px);letter-spacing:-.5px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header[_ngcontent-ng-c3028871913]{display:flex;flex-direction:column;width:100%;border-radius:var(--Radius-S, 8px);background:#242e33;padding:24px;gap:40px;font-family:Manrope,sans-serif}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header__top[_ngcontent-ng-c3028871913], .sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header__bottom[_ngcontent-ng-c3028871913]{display:flex;justify-content:space-between;align-items:center}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header__active-btn[_ngcontent-ng-c3028871913]{display:flex;align-items:center;color:#3dc67d;background:linear-gradient(90deg,#3dc67d4d,#9cffca4d 70%);padding:4px 12px;border-radius:99px;gap:8px;font-weight:800;font-size:16px;letter-spacing:.24px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header__active-btn[_ngcontent-ng-c3028871913]   .icon-container[_ngcontent-ng-c3028871913]{width:24px;height:24px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header__active-from[_ngcontent-ng-c3028871913]{font-size:12px;color:var(--Colors-ContentTextGray, #59666e)}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header__auto-renewal[_ngcontent-ng-c3028871913]{font-size:14px;color:var(--Colors-ContentTextGray, #59666e)}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header__auto-renewal-btn[_ngcontent-ng-c3028871913]{--local-padding: 4px 12px;--local-button-bg: var(--Grey-650, #1d2529);--local-button-bg-hover: #1d252991}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header[_ngcontent-ng-c3028871913]   .active-sub-info[_ngcontent-ng-c3028871913]{display:flex;flex-direction:column;gap:2px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header[_ngcontent-ng-c3028871913]   .active-sub-info__name[_ngcontent-ng-c3028871913]{font-size:16px;font-weight:800;color:var(--primary-White, #fff)}.sih-sub-modal[_ngcontent-ng-c3028871913]   .active-sub-header[_ngcontent-ng-c3028871913]   .active-sub-info__day-left[_ngcontent-ng-c3028871913]{font-size:12px;font-weight:500;color:var(--Colors-ContentTextGray, #59666e)}.sih-sub-modal[_ngcontent-ng-c3028871913]   .features-grid[_ngcontent-ng-c3028871913]{display:grid;grid-template-columns:1fr 1fr;grid-gap:16px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .features-grid[_ngcontent-ng-c3028871913]   .features-grid-item[_ngcontent-ng-c3028871913]{border-radius:var(--Radius-S, 8px);background:#242e33;padding:24px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .features-grid[_ngcontent-ng-c3028871913]   .features-grid-item__img-wrapper[_ngcontent-ng-c3028871913]{height:120px;position:relative}.sih-sub-modal[_ngcontent-ng-c3028871913]   .features-grid[_ngcontent-ng-c3028871913]   .features-grid-item__img-wrapper_sort-filters[_ngcontent-ng-c3028871913]   .icon-container[_ngcontent-ng-c3028871913]{position:absolute;left:0;top:-24px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .features-grid[_ngcontent-ng-c3028871913]   .features-grid-item__desc-container[_ngcontent-ng-c3028871913]{display:flex;flex-direction:column;align-items:flex-start;gap:8px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .features-grid[_ngcontent-ng-c3028871913]   .features-grid-item__title[_ngcontent-ng-c3028871913]{color:#fff;font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-8, 16px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-8, 24px);letter-spacing:-.5px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .features-grid[_ngcontent-ng-c3028871913]   .features-grid-item__subtitle[_ngcontent-ng-c3028871913]{color:var(--Colors-ContentTextGray, #59666e);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-8, 16px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-9, 20px);letter-spacing:-.5px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]{display:flex;flex-direction:column;align-items:center;width:100%;gap:24px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features__title[_ngcontent-ng-c3028871913]{color:var(--primary-White, #fff);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-5, 32px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-5, 40px);letter-spacing:-1px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]{display:flex;flex-direction:column;gap:24px;width:100%;border-radius:8px;background:#242e33;padding:24px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid__row[_ngcontent-ng-c3028871913]{display:grid;grid-template-columns:1fr 100px 100px;grid-gap:24px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid__row_title[_ngcontent-ng-c3028871913]{color:var(--primary-White, #fff);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-7, 20px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-7, 28px);letter-spacing:-.5px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid__row_subtitle[_ngcontent-ng-c3028871913]{text-align:center;color:#fff;font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-8, 16px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-8, 24px);letter-spacing:-.5px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .more-features-item[_ngcontent-ng-c3028871913]{padding-bottom:20px;border-bottom:1px solid #2e3b42}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .more-features-item__desc-wrapper[_ngcontent-ng-c3028871913]{display:flex;gap:20px;align-items:flex-start}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .more-features-item__desc-wrapper[_ngcontent-ng-c3028871913]   .more-features-item-desc[_ngcontent-ng-c3028871913]{display:flex;flex-direction:column;gap:8px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .more-features-item__desc-wrapper[_ngcontent-ng-c3028871913]   .more-features-item-desc__name[_ngcontent-ng-c3028871913]{color:#fff;font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-8, 16px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-8, 24px);letter-spacing:-.5px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .more-features-item__desc-wrapper[_ngcontent-ng-c3028871913]   .more-features-item-desc__text[_ngcontent-ng-c3028871913]{color:var(--Colors-ContentTextGray, #59666e);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-8, 16px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-9, 20px);letter-spacing:-.5px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .more-features-item__value-wrapper[_ngcontent-ng-c3028871913]{display:flex;justify-content:center;align-items:center;font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-8, 16px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-8, 24px);letter-spacing:-.5px}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .more-features-item__value-wrapper_red[_ngcontent-ng-c3028871913]{color:var(--crimson-500, #ff2551)}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .more-features-item__value-wrapper_green[_ngcontent-ng-c3028871913]{color:var(--green-500, #3dc67d)}.sih-sub-modal[_ngcontent-ng-c3028871913]   .more-features[_ngcontent-ng-c3028871913]   .more-features-grid[_ngcontent-ng-c3028871913]   .go-to-sub-btn[_ngcontent-ng-c3028871913]{position:sticky;bottom:5px;align-self:center}.sih-sub-modal[_ngcontent-ng-c3028871913]   .go-to-sub-btn[_ngcontent-ng-c3028871913]{--local-padding: var(--M, 12px) var(--L, 16px);border-radius:var(--Radius-S, 8px);background:var(--brand-500, #0d91ec);width:fit-content}.sih-sub-modal[_ngcontent-ng-c3028871913]   .go-to-sub-btn[_ngcontent-ng-c3028871913]:hover{opacity:.75;transition:opacity .2s ease-in-out}.sih-sub-modal[_ngcontent-ng-c3028871913]   .subscription-faq[_ngcontent-ng-c3028871913]{display:flex;flex-direction:column;align-items:flex-start;gap:28px;width:100%}.sih-sub-modal[_ngcontent-ng-c3028871913]   .subscription-faq__title[_ngcontent-ng-c3028871913]{color:var(--primary-White, #fff);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-5, 32px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-5, 40px);letter-spacing:-1px}</style><style>.keys-header-btn[_ngcontent-ng-c628810521]{display:inline-flex;padding:5px 8px;align-items:center;gap:8px;background:#0d91ec33;border:none;cursor:pointer;transition:.2s ease-in;border-radius:4px}.keys-header-btn[_ngcontent-ng-c628810521]:hover{background-color:#0d91ec59}.keys-header-btn__text[_ngcontent-ng-c628810521]{color:var(--brand-500, #0d91ec);font-family:Roboto;font-size:11px;font-style:normal;font-weight:400;line-height:normal}.keys-header-btn[_ngcontent-ng-c628810521]   .icon-container[_ngcontent-ng-c628810521]{display:flex}</style><style>.icon-container{-webkit-user-select:none;user-select:none;background-repeat:no-repeat;display:flex;fill:currentColor;overflow:hidden;pointer-events:none}.icon-container svg{width:100%;height:100%}
+</style><style>.keys-main-modal[_ngcontent-ng-c1655508708]{--main-modal-width: 1200px;--main-modal-height: 780px;width:var(--main-modal-width);height:var(--main-modal-height);box-sizing:border-box;border-radius:var(--Space-S, 8px);background:#0d202c99;-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px);display:inline-flex;padding:32px;flex-direction:column;align-items:flex-start;gap:28px}@media (min-width: 1300px) and (min-height: 900px){.keys-main-modal[_ngcontent-ng-c1655508708]{--main-modal-width: calc(1200px + 1*(100vw - 1300px)) ;--main-modal-height: calc(780px + (1250 - 780) * ((100vh - 900px) / (1350 - 900)))}}.keys-main-modal__body[_ngcontent-ng-c1655508708]{display:flex;flex:1 1 auto;gap:24px;width:100%;min-height:0;overflow:hidden}.keys-main-modal__filters[_ngcontent-ng-c1655508708]{width:270px;display:flex;flex-direction:column;gap:12px;flex-shrink:0;--dropdown-width: 100%;--dropdown-selector-width: 100%;--dropdown-options-width: 100%}.keys-main-modal__content[_ngcontent-ng-c1655508708]{display:flex;flex-direction:column;gap:24px;width:100%}</style><style>.regions-modal[_ngcontent-ng-c858741156]{display:flex;width:600px;padding:24px;flex-direction:column;align-items:flex-start;gap:20px;border-radius:8px;background:#0d202c99;-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px);box-sizing:border-box}.regions-modal__header[_ngcontent-ng-c858741156]{display:flex;flex-direction:column;align-items:flex-start;gap:8px;align-self:stretch;color:#fff;font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-6, 24px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-6, 32px);letter-spacing:-.5px}.regions-modal__header[_ngcontent-ng-c858741156]   .activation[_ngcontent-ng-c858741156]{display:flex;align-items:center;gap:8px}.regions-modal__header[_ngcontent-ng-c858741156]   .activation__text[_ngcontent-ng-c858741156]{font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-9, 14px);font-style:normal;font-weight:var(--font-weight-regular, 400);line-height:var(--line-height-9, 20px)}.regions-modal__header[_ngcontent-ng-c858741156]   .activation__text_green[_ngcontent-ng-c858741156]{color:var(--green-500, #3dc67d)}.regions-modal__header[_ngcontent-ng-c858741156]   .activation__text_red[_ngcontent-ng-c858741156]{color:var(--crimson-500, #ff2551)}.regions-modal__header[_ngcontent-ng-c858741156]   .activation[_ngcontent-ng-c858741156]   .icon-container[_ngcontent-ng-c858741156]{height:16px;width:16px;display:flex}.regions-modal__search[_ngcontent-ng-c858741156]{display:flex;flex-direction:column;position:relative;--input-wrapper-width: 552px;--input-wrapper-height: 44px}.regions-modal__search[_ngcontent-ng-c858741156]   .close-btn[_ngcontent-ng-c858741156]{padding:5px;position:absolute;right:16px;top:10px;background-color:transparent;-webkit-appearance:button;border:0;color:var(--neutral-300);cursor:pointer}.regions-modal__search[_ngcontent-ng-c858741156]   .close-btn[_ngcontent-ng-c858741156]:hover{color:var(--primary-White)}.regions-modal__search[_ngcontent-ng-c858741156]   .close-btn[_ngcontent-ng-c858741156]   .close-icon[_ngcontent-ng-c858741156]{width:14px;height:14px}.regions-modal[_ngcontent-ng-c858741156]   .region-list[_ngcontent-ng-c858741156]{width:100%;height:600px;overflow-y:scroll;display:grid;grid-template-columns:1fr 1fr;gap:40px}.regions-modal[_ngcontent-ng-c858741156]   .region-list__column[_ngcontent-ng-c858741156]{display:flex;flex-direction:column;gap:20px}.regions-modal[_ngcontent-ng-c858741156]   .region-list__group[_ngcontent-ng-c858741156]{display:flex;flex-direction:column;gap:8px}.regions-modal[_ngcontent-ng-c858741156]   .region-list__letter[_ngcontent-ng-c858741156]{color:var(--primary-White, #fff);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-7, 20px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-7, 28px)}.regions-modal[_ngcontent-ng-c858741156]   .region-list__items[_ngcontent-ng-c858741156]{display:flex;flex-direction:column;gap:8px}.regions-modal[_ngcontent-ng-c858741156]   .region-list__item[_ngcontent-ng-c858741156]{display:flex;gap:4px;color:var(--neutral-300, #858fa3);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-9, 14px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-9, 20px)}.regions-modal[_ngcontent-ng-c858741156]   .region-list__item[_ngcontent-ng-c858741156]   .icon-container[_ngcontent-ng-c858741156]{width:20px;height:20px;border-radius:50%}.regions-modal[_ngcontent-ng-c858741156]   .region-list__no-results[_ngcontent-ng-c858741156]{grid-column:1/-1;color:var(--neutral-300, #858fa3);font-family:var(--font-family-Manrope, Manrope);font-size:var(--font-size-9, 14px);font-style:normal;font-weight:var(--font-weight-semibold, 600);line-height:var(--line-height-9, 20px)}</style></head>
+<body class="flat_page responsive_page " style="">
+<div style="position:fixed;top:20px;left:50%;transform:translateX(-50%);z-index:9999;background:#ffffff;padding:10px 14px;border-radius:8px;box-shadow:0 0 8px rgba(0,0,0,0.25);font-family:sans-serif;">
+<input type="text" id="searchInput" placeholder="Paste Steam profile link..." style="padding:6px 8px;width:260px;">
+<button onclick="fetchData()" style="padding:6px 12px;margin-left:6px;cursor:pointer;">FETCH</button>
+</div>
+
+
+
+<div class="responsive_page_frame with_header">
+						<div role="navigation" class="responsive_page_menu_ctn mainmenu" aria-label="Mobile Menu">
+				<div class="responsive_page_menu" id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<!-- profile area -->
+								<div class="responsive_menu_user_container">
+
+									<div class="responsive_menu_user_area">
+										<div class="responsive_menu_user_persona ">
+											<div class="playerAvatar persona offline">
+												<a href="https://steamcommunity.com/profiles/76561199639676573/" aria-label="View your profile">
+													<img src="https://avatars.akamai.steamstatic.com/1145ccc36180579aa521ae2a773526916f5930a4_full.jpg" alt="General Makota">												</a>
+											</div>
+											<div class="playerProfile_area">
+												<div class="persona offline"><a href="https://steamcommunity.com/profiles/76561199639676573/" aria-label="View your profile"></a><a href="https://steamcommunity.com/profiles/76561199639676573/" data-miniprofile="1679410845">General Makota</a></div>
+												<div class="playerProfile_area_profilebtn"><a href="https://steamcommunity.com/profiles/76561199639676573/" aria-label="View your profile">View your profile</a></div>
+											</div>
+										</div>
+
+																													</div>
+									<div class="responsive_menu_user_bg"><img src="https://avatars.akamai.steamstatic.com/1145ccc36180579aa521ae2a773526916f5930a4.jpg" srcset="https://avatars.akamai.steamstatic.com/1145ccc36180579aa521ae2a773526916f5930a4.jpg 1x, https://avatars.akamai.steamstatic.com/1145ccc36180579aa521ae2a773526916f5930a4_medium.jpg 2x" alt="General Makota"></div>
+								</div>
+
+																									<div class="menuitem notifications_item">
+										Notifications										<div class="notification_count_total_ctn no_notifications">
+											<span class="notification_envelope"></span>
+											<span class="notification_count">0</span>
+										</div>
+									</div>
+									<div class="notification_submenu" style="display: none;" data-submenuid="notifications">
+										<div data-featuretarget="green-envelope-responsive"><div class="_1Uh_y1atXoMOUxGyUQK8vC _2q-LyEsEZpxFZBbqO07xgp"><a href="https://steamcommunity.com/profiles/76561199639676573/notifications"><div class="_1OH7OiFxIJo5Y7Z4Z6U6iO">View All</div></a></div></div>									</div>
+																<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+				Store			</a>
+			<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+														<a class="submenuitem" href="https://store.steampowered.com/">
+						Home											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/explore/">
+						Discovery Queue											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">
+						Wishlist											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/points/shop/">
+						Points Shop											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/news/">
+						News											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/stats/">
+						Charts											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/about/">
+						About											</a>
+							</div>
+										<a class="menuitem supernav supernav_active" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+				Community			</a>
+			<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+														<a class="submenuitem" href="https://steamcommunity.com/">
+						Home											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/discussions/">
+						Discussions											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/workshop/">
+						Workshop											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/market/">
+						Market											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">
+						Broadcasts											</a>
+							</div>
+										<a class="menuitem supernav username" href="https://steamcommunity.com/my/" data-tooltip-type="selector" data-tooltip-content=".submenu_Profile">
+				You &amp; Friends			</a>
+			<div class="submenu_Profile" style="display: none;" data-submenuid="Profile">
+														<a class="submenuitem" href="https://steamcommunity.com/my/home/">
+						Activity											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/">
+						Profile											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/friends/">
+						Friends											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/games/">
+						Games											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/groups/">
+						Groups											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/screenshots/">
+						Content											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/badges/">
+						Badges											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/inventory/">
+						Inventory											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/yearinreview/">
+						Steam Replay											</a>
+							</div>
+										<a class="menuitem " href="https://steamcommunity.com/chat/">
+				Chat			</a>
+										<a class="menuitem " href="https://help.steampowered.com/en/">
+				Support			</a>
+			
+							<div class="minor_menu_items">
+																	<a class="menuitem" href="https://store.steampowered.com/account/">Account details</a>
+									<a class="menuitem" href="https://store.steampowered.com/account/preferences">Store preferences</a>
+																								<div class="menuitem change_language_action">
+									Change language								</div>
+																									<div class="menuitem" role="link" onclick="Logout();">Change user</div>
+																									<a class="menuitem" href="https://store.steampowered.com/mobile" target="_blank" rel="noreferrer">Get the Steam Mobile App</a>
+																									<div class="menuitem" role="link" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer  "></div>
+						<div class="mainmenu_footer">
+															<div class="mainmenu_footer_logo"><img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/footerLogo_valve_new.png"></div>
+								© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.								<span class="mainmenu_valve_links">
+									<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+									&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+									&nbsp;| &nbsp;<a href="https://help.steampowered.com/faqs/view/10BB-D27A-6378-4436" target="_blank">Accessibility</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/account/cookiepreferences/" target="_blank">Cookies</a>
+								</span>
+													</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab"></div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu" id="responsive_page_local_menu" data-panel="{&quot;onOptionsActionDescription&quot;:&quot;#filter_toggle&quot;,&quot;onOptionsButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;,&quot;onCancelButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;}">
+				<div class="localmenu_content" data-panel="{&quot;maintainY&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;column&quot;}">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+													<div class="responsive_header_notification_badge_ctn">
+								<div class="responsive_header_notification_badge notification_count_total_ctn no_notifications">
+									<span class="notification_count">0</span>
+								</div>
+							</div>
+											</div>
+					<div class="responsive_header_logo">
+						<a href="https://store.steampowered.com/">
+															<img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+													</a>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div role="banner" id="global_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+	<div class="content">
+		<div class="logo" style="position: relative;">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/" aria-label="Link to the Steam Homepage">
+						<img src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="176" height="44" alt="Link to the Steam Homepage">
+					</a>
+							</span>
+		<div class="jd050ed1763c226cd mcccbb558b61d5229">
+        <a class="jd050ed1763c226cd__image" href="https://csgfst.com/DpwpRC" target="_blank">
+          <img src="https://download.steaminventoryhelper.com/images/csgofast/steam.jpg" alt="">
+        </a>
+        <div class="jd050ed1763c226cd__remove-ads" data-id="sponsor">Remove ads</div>
+      <style>.jd050ed1763c226cd{width:250px;display:flex;position:absolute;top:0;left:0}@media(max-width: 1280px){.jd050ed1763c226cd{display:none}}.jd050ed1763c226cd.home{left:-320px}@media(max-width: 1920px){.jd050ed1763c226cd.home{left:calc(-50px + -270*(100vw - 1000px)/920)}}.jd050ed1763c226cd.default{left:-260px;top:0;transform:translateY(0%)}@media(max-width: 1920px){.jd050ed1763c226cd.default{left:calc(-10px + -240*(100vw - 1000px)/920)}}.jd050ed1763c226cd.inventory_simply{left:-310px;top:9.5%;transform:translateY(-9.5%)}@media(max-width: 1920px){.jd050ed1763c226cd.inventory_simply{left:calc(-240px + -70*(100vw - 1700px)/220);top:calc(8% + 1.5*(100vw - 1700px)/220);transform:translateY(calc(-1 * (8% + 1.5 * (100vw - 1700px) / 220)))}}@media(max-width: 1700px){.jd050ed1763c226cd.inventory_simply{left:calc(-165px + -145*(100vw - 1400px)/520)}}@media(max-width: 1920px){.jd050ed1763c226cd:not(.mcccbb558b61d5229){width:calc(10px + 240*(100vw - 1000px)/920)}}.jd050ed1763c226cd.mcccbb558b61d5229{width:223px;top:7px;left:auto;right:200px}@media(max-width: 1920px){.jd050ed1763c226cd.mcccbb558b61d5229{width:calc(210px + 13*(100vw - 1440px)/480);top:calc(13px + -6*(100vw - 1440px)/480)}}@media(max-width: 1440px){.jd050ed1763c226cd.mcccbb558b61d5229{width:calc(138px + 72*(100vw - 1280px)/160);top:calc(43px + -30*(100vw - 1280px)/160)}.jd050ed1763c226cd.mcccbb558b61d5229__remove-ads{bottom:-19px}}.jd050ed1763c226cd img{width:100%;height:100%;object-fit:contain}.jd050ed1763c226cd.market{top:123px}.jd050ed1763c226cd__remove-ads{position:absolute;left:0;bottom:-20px;font-family:"Manrope",sans-serif;display:flex;justify-content:center;align-items:center;padding:3px 6px;box-sizing:border-box;font-size:11px;border-radius:0 0 4px 4px;background-color:#2c3337;color:#a9b2b9;cursor:pointer;transition:.2s ease-in}.jd050ed1763c226cd__remove-ads:hover{color:#fff;background-color:#546570}</style></div></div>
+
+			<div role="navigation" class="supernav_container" aria-label="Global Menu">
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+				STORE			</a>
+			<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+														<a class="submenuitem" href="https://store.steampowered.com/">
+						Home											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/explore/">
+						Discovery Queue											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">
+						Wishlist											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/points/shop/">
+						Points Shop											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/news/">
+						News											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/stats/">
+						Charts											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/about/">
+						About											</a>
+							</div>
+										<a class="menuitem supernav supernav_active" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+				COMMUNITY			</a>
+			<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+														<a class="submenuitem" href="https://steamcommunity.com/">
+						Home											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/discussions/">
+						Discussions											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/workshop/">
+						Workshop											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/market/">
+						Market											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">
+						Broadcasts											</a>
+							</div>
+										<a class="menuitem supernav username" href="https://steamcommunity.com/my/" data-tooltip-type="selector" data-tooltip-content=".submenu_Profile" aria-describedby="tooltip-3">
+				General Makota			</a>
+			
+										<a class="menuitem " href="https://steamcommunity.com/chat/">
+				Chat			</a>
+										<a class="menuitem " href="https://help.steampowered.com/en/">
+				SUPPORT			</a>
+				<div class="supernav_content" id="tooltip-3" style="position: absolute; z-index: 1500; opacity: 0; left: 179.828px; top: 66px; pointer-events: none;"><div class="submenu_Profile" style="" data-submenuid="Profile">
+														<a class="submenuitem" href="https://steamcommunity.com/my/home/">
+						Activity											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/">
+						Profile											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/friends/">
+						Friends											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/games/">
+						Games											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/groups/">
+						Groups											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/screenshots/">
+						Content											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/badges/">
+						Badges											</a>
+														<a class="submenuitem" href="https://steamcommunity.com/my/inventory/">
+						Inventory											</a>
+														<a class="submenuitem" href="https://store.steampowered.com/yearinreview/">
+						Steam Replay											</a>
+							</div></div></div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-6, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions" class="sih-modified-header" style="display: flex;"><div class="sih-features-button ">
+      <div class="sih-features-button__icon">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M6.32 2.3125C5.19094 1.77344 3.61281 1.50937 1.5 1.5C1.30074 1.49729 1.10539 1.5554 0.940002 1.66656C0.804248 1.75832 0.693122 1.88203 0.616398 2.02682C0.539674 2.1716 0.499704 2.33302 0.500002 2.49687V11.4375C0.500002 12.0419 0.930002 12.4978 1.5 12.4978C3.72094 12.4978 5.94875 12.7053 7.28313 13.9666C7.30138 13.9839 7.32432 13.9955 7.34911 13.9999C7.37389 14.0043 7.39942 14.0013 7.42253 13.9913C7.44563 13.9813 7.46529 13.9648 7.47907 13.9437C7.49284 13.9226 7.50012 13.898 7.5 13.8728V3.33812C7.50004 3.26705 7.48482 3.1968 7.45539 3.13211C7.42595 3.06742 7.38298 3.00979 7.32938 2.96312C7.02372 2.70182 6.6842 2.48297 6.32 2.3125ZM15.06 1.66562C14.8945 1.55474 14.6992 1.49696 14.5 1.5C12.3872 1.50937 10.8091 1.77219 9.68 2.3125C9.31582 2.48266 8.97621 2.70108 8.67031 2.96187C8.61681 3.00861 8.57393 3.06625 8.54456 3.13094C8.51518 3.19562 8.49999 3.26584 8.5 3.33687V13.8722C8.49999 13.8964 8.50711 13.92 8.52049 13.9402C8.53387 13.9603 8.5529 13.9761 8.57519 13.9855C8.59749 13.9948 8.62206 13.9974 8.64582 13.9929C8.66958 13.9884 8.69147 13.9769 8.70875 13.96C9.51094 13.1631 10.9188 12.4969 14.5013 12.4972C14.7665 12.4972 15.0208 12.3918 15.2084 12.2043C15.3959 12.0168 15.5013 11.7624 15.5013 11.4972V2.49719C15.5016 2.33301 15.4616 2.17126 15.3846 2.02624C15.3076 1.88121 15.1962 1.75736 15.06 1.66562Z" fill="currentColor"></path>
+        </svg>
+      </div>
+      <span class="sih-features-button__text">SIH Features</span>
+      
+    </div>
+			
+      <div class="sih-global sih-global-menu" style="display: flex;">
+        <div class="sih-global-menu__icons sih-global-menu__row gap-5">
+          <div id="sih-header-timer" class="sih-global-menu__row">
+            <div class="sih-global-menu__spinner"></div>
+            <div id="sih-header-timer__count" class="pl-5 sih-text"></div>
+          </div>
+          <a href="javascript:void(0)" id="sih-header-orders" class="sih-global-menu__icon">
+            <svg width="20" height="20" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M2 17.4286C2 18.0714 2.25 18.7143 2.75 19.2286C3.25 19.7429 3.875 20 4.5 20V6C3.875 6 3.25 6.25714 2.75 6.77143C2.25 7.28571 2 7.92857 2 8.57143V17.4286ZM13.875 6H10.125C10.125 5.48571 10.25 4.82857 10.625 4.44286C11 4.05714 11.375 3.92857 12 3.92857C12.5 3.92857 13 4.05714 13.375 4.44286C13.625 4.82857 13.875 5.48571 13.875 6ZM5.75 6V20H18.25V6H15.75C15.75 4.97143 15.375 3.92857 14.625 3.15714C13.875 2.38571 13 2 12 2C11 2 10.125 2.38571 9.375 3.15714C8.625 3.92857 8.25 4.97143 8.25 6H5.75ZM19.5 20C20.125 20 20.75 19.7429 21.25 19.2286C21.75 18.7143 22 18.0714 22 17.4286V8.57143C22 7.92857 21.75 7.28571 21.25 6.77143C20.75 6.25714 20.125 6 19.5 6V20Z" fill="currentColor"></path>
+            </svg>
+          </a>
+          <a href="javascript:void(0)" id="sih-header-cart" class="sih-global-menu__icon">
+            <svg width="20" height="20" viewBox="0 0 22 19" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M16.21 7H21C21.55 7 22 7.45 22 8L21.97 8.27L19.43 17.54C19.19 18.38 18.42 19 17.5 19H4.5C3.58 19 2.81 18.38 2.58 17.54L0.04 8.27C0 8.18 0 8.09 0 8C0 7.45 0.45 7 1 7H5.79L10.17 0.45C10.36 0.16 10.68 0 11 0C11.32 0 11.64 0.16 11.83 0.44L16.21 7ZM13.8 7L11 2.8L8.2 7H13.8Z" fill="currentColor"></path>
+            </svg>
+          </a>
+        
+      <a href="javascript:void(0)" id="sih-header-notifications" class="sih-header-notifications sih-global-menu__icon" data-sih-unread="false">
+        <span class="sih-header-notifications__inner">
+          <svg width="16" height="20" viewBox="0 0 16 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M8 20C9.1 20 10 19.1 10 18H6C6 19.1 6.89 20 8 20ZM14 14V9C14 5.93 12.36 3.36 9.5 2.68V2C9.5 1.17 8.83 0.5 8 0.5C7.17 0.5 6.5 1.17 6.5 2V2.68C3.63 3.36 2 5.92 2 9V14L0 16V17H16V16L14 14Z" fill="currentColor"></path>
+          </svg>
+          <span class="sih-header-notifications__indicator"></span>
+        </span>
+      </a>
+    </div>
+      </div>
+    <div role="navigation" id="global_action_menu" aria-label="Account Menu"><div class="sih-scope"><sih-keys-header-btn _nghost-ng-c628810521=""><button _ngcontent-ng-c628810521="" class="keys-header-btn"><ui-icon _ngcontent-ng-c628810521="" class="icon-container"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="11" viewBox="0 0 16 11" fill="none">
+  <path d="M15.9678 8.42906L14.4848 1.36262C14.3182 0.568469 13.6176 0 12.8065 0H11.3697C10.8866 0 10.4948 0.391813 10.4948 0.874969C10.4948 1.35809 10.1029 1.74994 9.61981 1.74994H8.71531H7.28462H6.38037C5.89697 1.74994 5.50515 1.35812 5.50515 0.874969V0.649531C5.50515 0.166125 5.11359 0 4.63019 0H3.19347C2.38228 0 1.68172 0.568469 1.51509 1.36262L0.0320285 8.42906C-0.053284 8.83637 0.0335286 9.26075 0.272216 9.60156C0.510904 9.94231 0.880216 10.1693 1.29206 10.2281L2.15053 10.3509C2.75981 10.4377 3.36056 10.145 3.66781 9.61181L5.20209 6.94634C5.38947 6.62106 5.73678 6.42041 6.11209 6.42041H9.88778C10.2633 6.42041 10.6101 6.62106 10.7975 6.94634L12.3323 9.61181C12.6393 10.145 13.2401 10.4377 13.8494 10.3509L14.7081 10.2281C15.1199 10.1693 15.489 9.94231 15.7277 9.60156C15.9664 9.26075 16.0534 8.83641 15.9678 8.42906ZM5.38175 4.42447H4.29106V5.51491H3.42659V4.42447H2.33597V3.56H3.42662V2.46956H4.29109V3.56H5.38178L5.38175 4.42447ZM12.2385 2.14031C12.6021 2.14031 12.8968 2.43506 12.8968 2.79888C12.8968 3.16241 12.6021 3.45716 12.2385 3.45716C11.8744 3.45716 11.5797 3.16241 11.5797 2.79888C11.5797 2.43506 11.8744 2.14031 12.2385 2.14031ZM10.9212 4.7745C10.5576 4.7745 10.2626 4.47953 10.2626 4.11569C10.2626 3.75212 10.5576 3.45712 10.9212 3.45712C11.285 3.45712 11.5797 3.75212 11.5797 4.11569C11.5797 4.47953 11.2849 4.7745 10.9212 4.7745ZM12.2385 6.09137C11.8744 6.09137 11.5797 5.79638 11.5797 5.43281C11.5797 5.06925 11.8744 4.7745 12.2385 4.7745C12.6021 4.7745 12.8968 5.06925 12.8968 5.43281C12.8968 5.79638 12.6021 6.09137 12.2385 6.09137ZM13.5551 4.7745C13.1916 4.7745 12.8968 4.47953 12.8968 4.11569C12.8968 3.75212 13.1916 3.45712 13.5551 3.45712C13.9189 3.45712 14.2139 3.75212 14.2139 4.11569C14.2139 4.47953 13.9189 4.7745 13.5551 4.7745Z" fill="#0D91EC"></path>
+</svg>
+</ui-icon><div _ngcontent-ng-c628810521="" class="keys-header-btn__text">SIH Games</div></button></sih-keys-header-btn></div>
+									<a class="header_installsteam_btn header_installsteam_btn_gray" href="https://store.steampowered.com/about/">
+						<div class="header_installsteam_btn_content">
+							Install Steam						</div>
+					</a>
+				
+				
+										<!-- notification inbox area -->
+																								<div id="header_notification_area" style="position:relative">
+							<div data-featuretarget="green-envelope"><div><button id="green_envelope_menu_root" class="_1jW5_Ycv6jGKu28A1OSIQK _34A9kjlnmgfUWSmr16VjXE"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" fill="none" class="_13fwmIK8Ajo0qndUS5zb7E" aria-label="Notifications"><g class="SVGIcon_Notification"><path fill-rule="evenodd" clip-rule="evenodd" d="M32 24V26H4V24L8 19V12C8 9.34784 9.05357 6.8043 10.9289 4.92893C12.8043 3.05357 15.3478 2 18 2C20.6522 2 23.1957 3.05357 25.0711 4.92893C26.9464 6.8043 28 9.34784 28 12V19L32 24Z" fill="currentColor"></path><path class="SVGIcon_Notification_Uvula" fill-rule="evenodd" clip-rule="evenodd" d="M18 34C19.2396 33.9986 20.4483 33.6133 21.46 32.897C22.4718 32.1807 23.2368 31.1687 23.65 30H12.35C12.7632 31.1687 13.5282 32.1807 14.54 32.897C15.5517 33.6133 16.7604 33.9986 18 34Z" fill="currentColor"></path></g></svg></button></div></div><script type="text/javascript">$J( EnableNotificationCountPolling );</script>			<div id="header_notification_link" class="header_notification_btn global_header_toggle_button header_notification_bell" style="background-color: rgba(0, 0, 0, 0);"></div>
+									</div>
+					<button class="pulldown global_action_link persona_name_text_content" id="account_pulldown" onclick="ShowMenu( this, 'account_dropdown', 'right', 'bottom', true );">
+						General Makota					</button>
+					<div class="popup_block_new" id="account_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+															<a class="popup_menu_item" href="https://steamcommunity.com/profiles/76561199639676573/">View my profile</a><a class="sih-orders-history" href="javascript:void(0)">My SIH orders</a>
+								<a class="popup_menu_item" href="https://store.steampowered.com/account/">Account details: <span class="account_name">elinsno_</span></a>
+																						<a class="popup_menu_item" href="https://store.steampowered.com/account/preferences/">Store preferences</a>
+															
+															<span class="popup_menu_item" id="account_language_pulldown">Change language</span>
+								<div class="popup_block_new" id="language_dropdown" style="display: none;">
+									<div class="popup_body popup_menu">
+																																																									<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																																															<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																																															<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																																															<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																																															<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																																															<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																																															<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (Czech)</a>
+																																															<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																																															<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																																															<a class="popup_menu_item tight" href="?l=english" onclick="ChangeLanguage( 'english' ); return false;">English</a>
+																																															<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español - España (Spanish - Spain)</a>
+																																															<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español - Latinoamérica (Spanish - Latin America)</a>
+																																															<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																																															<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																																															<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																																															<a class="popup_menu_item tight" href="?l=indonesian" onclick="ChangeLanguage( 'indonesian' ); return false;">Bahasa Indonesia (Indonesian)</a>
+																																															<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																																															<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																																															<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																																															<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																																															<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese - Portugal)</a>
+																																															<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português - Brasil (Portuguese - Brazil)</a>
+																																															<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																																															<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																																															<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																																															<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																																															<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																																															<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt (Vietnamese)</a>
+																																															<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																															<a class="popup_menu_item tight" href="https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback" target="_blank">
+											Report a translation problem										</a>
+									</div>
+								</div>
+							
+															<a class="popup_menu_item" href="javascript:Logout();">Sign out of account...</a>
+													</div>
+					</div>
+					<script type="text/javascript">
+						RegisterFlyout( 'account_language_pulldown', 'language_dropdown', 'leftsubmenu', 'bottomsubmenu', true );
+					</script>
+												</div>
+							<a href="https://steamcommunity.com/profiles/76561199639676573/" class="user_avatar playerAvatar offline" aria-label="View your profile" data-miniprofile="1679410845">
+					<img src="https://avatars.akamai.steamstatic.com/1145ccc36180579aa521ae2a773526916f5930a4.jpg" alt="General Makota">
+				</a>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "7ac95a30344d16bb5ba382f0";
+	g_steamID = "76561199639676573";
+	g_strLanguage = "english";
+	g_SNR = '2_groups_100006_';
+	g_bAllowAppImpressions = true;
+		g_ContentDescriptorPreferences = [1,3,4];
+
+	
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers(( 'https%3A%2F%2Fsteamcommunity.com' ));
+		InitEmoticonHovers();
+		ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/community.akamai.steamstatic.com\/public\/css\/skin_1\/economy.css?v=n63F27vfxTRA&l=english&_cdn=akamai", "https:\/\/community.akamai.steamstatic.com\/public\/javascript\/economy_common.js?v=3TZBCEPvtfTo&l=english&_cdn=akamai", "https:\/\/community.akamai.steamstatic.com\/public\/javascript\/economy.js?v=_pv7sVx2xKzw&l=english&_cdn=akamai" );});</script>
+	<div id="webui_config" style="display: none;" data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;english&quot;,&quot;COUNTRY&quot;:&quot;AR&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/&quot;,&quot;VIDEO_CDN_URL&quot;:&quot;https:\/\/video.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.akamai.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/store.steampowered.com\/&quot;,&quot;STORE_CHECKOUT_BASE_URL&quot;:&quot;https:\/\/checkout.steampowered.com\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/steam.tv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/help.steampowered.com\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/partner.steampowered.com\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/&quot;,&quot;STORE_ITEM_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/api.steampowered.com\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/steamcommunity.com\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1773357299,&quot;PAGE_TIMESTAMP&quot;:1773380670,&quot;IN_TENFOOT&quot;:false,&quot;IN_GAMEPADUI&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;windows&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/login.steampowered.com\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.akamai.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;WEBSITE_ID&quot;:&quot;Community&quot;,&quot;BASE_URL_SHARED_CDN&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/&quot;,&quot;CLAN_CDN_ASSET_URL&quot;:&quot;https:\/\/clan.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_ASSETS_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/community_assets\/&quot;,&quot;SUPPORT_BASE_URL&quot;:&quot;https:\/\/steamsupport.valvesoftware.com\/&quot;,&quot;SNR&quot;:&quot;2_groups_100006_&quot;}" data-userinfo="{&quot;logged_in&quot;:true,&quot;country_code&quot;:&quot;AR&quot;,&quot;excluded_content_descriptors&quot;:[1,3,4],&quot;steamid&quot;:&quot;76561199639676573&quot;,&quot;accountid&quot;:1679410845,&quot;account_name&quot;:&quot;elinsno_&quot;,&quot;is_support&quot;:false,&quot;is_limited&quot;:false,&quot;is_partner_member&quot;:false,&quot;is_valve_email&quot;:false}">
+	</div>
+<script>window.g_wapit="eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAxOF8yN0RBM0RFRF84Q0YzQyIsICJzdWIiOiAiNzY1NjExOTk2Mzk2NzY1NzMiLCAiYXVkIjogWyAid2ViOmNvbW11bml0eSIgXSwgImV4cCI6IDE3NzM0NjczODgsICJuYmYiOiAxNzY0NzM5NTU5LCAiaWF0IjogMTc3MzM3OTU1OSwgImp0aSI6ICIwMDE1XzI3REEzREVDXzMyNzkwIiwgIm9hdCI6IDE3NzMzNzk1NTgsICJydF9leHAiOiAxNzkxNjA5MDYyLCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiMTAzLjE4Ny4yNDUuMTc3IiwgImlwX2NvbmZpcm1lciI6ICIxMDMuMTg3LjI0NS4xNzciIH0.Y536hp-HYr7DSoadcMrF0efNMfp6EeGJbLD9nHyVE58je3NGZqRWcPT4ysPs-14FVSHAVa-HakCPJOYSbU36DA";</script><div id="application_config" style="display: none;" data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;english&quot;,&quot;COUNTRY&quot;:&quot;AR&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/&quot;,&quot;VIDEO_CDN_URL&quot;:&quot;https:\/\/video.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.akamai.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/store.steampowered.com\/&quot;,&quot;STORE_CHECKOUT_BASE_URL&quot;:&quot;https:\/\/checkout.steampowered.com\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/steam.tv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/help.steampowered.com\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/partner.steampowered.com\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/&quot;,&quot;STORE_ITEM_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/api.steampowered.com\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/steamcommunity.com\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1773357299,&quot;PAGE_TIMESTAMP&quot;:1773380670,&quot;IN_TENFOOT&quot;:false,&quot;IN_GAMEPADUI&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;windows&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/login.steampowered.com\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.akamai.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;WEBSITE_ID&quot;:&quot;Community&quot;,&quot;BASE_URL_SHARED_CDN&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/&quot;,&quot;CLAN_CDN_ASSET_URL&quot;:&quot;https:\/\/clan.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_ASSETS_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/community_assets\/&quot;,&quot;SUPPORT_BASE_URL&quot;:&quot;https:\/\/steamsupport.valvesoftware.com\/&quot;,&quot;SNR&quot;:&quot;2_groups_100006_&quot;}" data-userinfo="{&quot;logged_in&quot;:true,&quot;country_code&quot;:&quot;AR&quot;,&quot;excluded_content_descriptors&quot;:[1,3,4],&quot;steamid&quot;:&quot;76561199639676573&quot;,&quot;accountid&quot;:1679410845,&quot;account_name&quot;:&quot;elinsno_&quot;,&quot;is_support&quot;:false,&quot;is_limited&quot;:false,&quot;is_partner_member&quot;:false,&quot;is_valve_email&quot;:false}" data-community="[]" data-loyaltystore="{&quot;webapi_token&quot;:&quot;eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAxOF8yN0RBM0RFRF84Q0YzQyIsICJzdWIiOiAiNzY1NjExOTk2Mzk2NzY1NzMiLCAiYXVkIjogWyAid2ViOmNvbW11bml0eSIgXSwgImV4cCI6IDE3NzM0NjczODgsICJuYmYiOiAxNzY0NzM5NTU5LCAiaWF0IjogMTc3MzM3OTU1OSwgImp0aSI6ICIwMDE1XzI3REEzREVDXzMyNzkwIiwgIm9hdCI6IDE3NzMzNzk1NTgsICJydF9leHAiOiAxNzkxNjA5MDYyLCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiMTAzLjE4Ny4yNDUuMTc3IiwgImlwX2NvbmZpcm1lciI6ICIxMDMuMTg3LjI0NS4xNzciIH0.Y536hp-HYr7DSoadcMrF0efNMfp6EeGJbLD9nHyVE58je3NGZqRWcPT4ysPs-14FVSHAVa-HakCPJOYSbU36DA&quot;}" data-loyalty_webapi_token="&quot;eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MDAxOF8yN0RBM0RFRF84Q0YzQyIsICJzdWIiOiAiNzY1NjExOTk2Mzk2NzY1NzMiLCAiYXVkIjogWyAid2ViOmNvbW11bml0eSIgXSwgImV4cCI6IDE3NzM0NjczODgsICJuYmYiOiAxNzY0NzM5NTU5LCAiaWF0IjogMTc3MzM3OTU1OSwgImp0aSI6ICIwMDE1XzI3REEzREVDXzMyNzkwIiwgIm9hdCI6IDE3NzMzNzk1NTgsICJydF9leHAiOiAxNzkxNjA5MDYyLCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiMTAzLjE4Ny4yNDUuMTc3IiwgImlwX2NvbmZpcm1lciI6ICIxMDMuMTg3LjI0NS4xNzciIH0.Y536hp-HYr7DSoadcMrF0efNMfp6EeGJbLD9nHyVE58je3NGZqRWcPT4ysPs-14FVSHAVa-HakCPJOYSbU36DA&quot;" data-steam_notifications="{&quot;pending_gift_count&quot;:0,&quot;pending_friend_count&quot;:0,&quot;unread_count&quot;:0,&quot;pending_family_invite_count&quot;:0,&quot;success&quot;:1,&quot;rwgrsn&quot;:-2}"></div><link href="https://community.akamai.steamstatic.com/public/css/applications/community/main.css?v=wr4d8i9lScEd&amp;l=english&amp;_cdn=akamai" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/applications/community/manifest.js?v=CF3wq4PztA1p&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/applications/community/libraries~b28b7af69.js?v=ACrz35K8_17f&amp;l=english&amp;_cdn=akamai"></script>
+<script type="text/javascript" src="https://community.akamai.steamstatic.com/public/javascript/applications/community/main.js?v=T2scsEvwwRX8&amp;l=english&amp;_cdn=akamai"></script>
+<div data-featuretarget="apphub-events"><div></div></div><div data-featuretarget="community-awards"><div></div></div>	<div id="application_root"><div class="_2KPA3I9eXE9r251_-GX_iv noOpinionatedGlobalStyles"><div data-accent-color="blue" data-dull-color="greyneutral" data-body-text-color="text-light" style="display: contents;"><div style="display: contents; color: var(--color-text-body-body);"></div></div></div></div>
+
+		<div role="main" class="responsive_page_template_content" id="responsive_page_template_content" data-panel="{&quot;autoFocus&quot;:true,&quot;navKey&quot;:&quot;responsive_page_template_content&quot;}" style="position: relative;">
+
+			<div class="pagecontent ">
+	<div class="maincontent grouppage_header_content">
+				<div class="grouppage_header">
+	<div class="responsive_hidden">
+		<div class="grouppage_member_tiles">
+			<div class="grouppage_membertiles_overlay"></div>
+							<div class="member_tile_row">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+									</div>
+							<div class="member_tile_row">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+									</div>
+							<div class="member_tile_row">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+											<img class="member_tile" src="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" data-delayed-image-group="member_tiles" data-delayed-image="https://avatars.akamai.steamstatic.com/49e1b612b29030950cd4b1a4da72fdea415e5351_medium.jpg" alt="">
+									</div>
+					</div>
+
+		<div class="grouppage_header_top">
+			<div class="grouppage_logo">
+				<img src="https://avatars.akamai.steamstatic.com/72b7d0046cf84cd0b8b08ed495e47052c0a3338e_full.jpg">
+			</div>
+			<div class="grouppage_header_label">
+				STEAM GROUP			</div>
+			<div class="grouppage_header_name" style="font-size: 30px;">
+				VANGUARD / PrivateD				<span class="grouppage_header_abbrev" style="font-size: 21px;">VanPri1</span>
+			</div>
+
+			<div class="responsive_local_menu">
+				<form name="join_group_form" id="join_group_form" method="POST" action="https://steamcommunity.com/groups/VanPri100">
+					<input type="hidden" name="action" value="join">
+					<input type="hidden" name="sessionID" value="7ac95a30344d16bb5ba382f0">
+				</form>
+																	</div>
+
+					</div>
+	</div>
+
+	<div class="nonresponsive_hidden grouppage_resp_header">
+				<div class="grouppage_resp_logo">
+			<img src="https://avatars.akamai.steamstatic.com/72b7d0046cf84cd0b8b08ed495e47052c0a3338e_full.jpg">
+		</div>
+		<div class="grouppage_resp_title_ctn">
+			<div>
+				<div class="grouppage_header_label">
+					STEAM GROUP				</div>
+			</div>
+			<div class="grouppage_resp_title ellipsis">
+				VANGUARD / PrivateD				<span class="grouppage_header_abbrev">VanPri1</span>
+			</div>
+		</div>
+		<div class="grouppage_resp_stats">
+			<div class="responsive_group_stats membercounts responsive_membercounts">
+								<div class="membercount members">
+					<a href="https://steamcommunity.com/groups/VanPri100/members">
+						<span class="count ">1</span><br>
+						<span class="label">MEMBERS</span>
+					</a>
+				</div>
+				<div class="membercount ingame">
+					<div class="count ">0</div>
+					<div class="label">IN-GAME</div>
+				</div>
+				<div class="membercount online">
+					<div class="count ">0</div>
+					<div class="label">ONLINE</div>
+				</div>
+				<div style="clear: left;"></div>
+			</div>
+			<div class="responsive_group_stats">
+				<div class="groupstat">
+					<div class="label">Founded</div>
+					<div class="data">12 March</div>
+				</div>
+												<div style="clear: both;"></div>
+			</div>
+		</div>
+		<div style="clear: left;"></div>
+	</div>
+
+	<div class="group_tabs">
+		<div class="group_tabs_scroll responsive_hidden">
+							<a class="group_tab " id="group_tab_overview" href="https://steamcommunity.com/groups/VanPri100">
+					<span>Overview</span>
+				</a>
+							<a class="group_tab " id="group_tab_announcements" href="https://steamcommunity.com/groups/VanPri100/announcements/listing">
+					<span>Announcements</span>
+				</a>
+							<a class="group_tab active" id="group_tab_discussions" href="https://steamcommunity.com/groups/VanPri100/discussions">
+					<span>Discussions</span>
+				</a>
+							<a class="group_tab " id="group_tab_events" href="https://steamcommunity.com/groups/VanPri100#events">
+					<span>Events</span>
+				</a>
+							<a class="group_tab " id="group_tab_members" href="https://steamcommunity.com/groups/VanPri100#members">
+					<span>Members</span>
+				</a>
+							<a class="group_tab " id="group_tab_comments" href="https://steamcommunity.com/groups/VanPri100#comments">
+					<span>Comments</span>
+				</a>
+							<a class="group_tab " id="group_tab_curation" href="https://steamcommunity.com/groups/VanPri100#curation">
+					<span>Curator</span>
+				</a>
+					</div>
+		<div class="nonresponsive_hidden sharedfiles_responsive_tab responsive_tab_ctn">
+			<div class="responsive_tab_control">
+								<select class="responsive_tab_select" id="responsive_tab_select69b3a43e05401">
+											<option data-tab-name="overview" value="https://steamcommunity.com/groups/VanPri100">
+							Overview						</option>
+											<option data-tab-name="announcements" value="https://steamcommunity.com/groups/VanPri100#announcements">
+							Announcements						</option>
+											<option data-tab-name="discussions" value="https://steamcommunity.com/groups/VanPri100/discussions" selected="">
+							Discussions						</option>
+											<option data-tab-name="events" value="https://steamcommunity.com/groups/VanPri100#events">
+							Events						</option>
+											<option data-tab-name="members" value="https://steamcommunity.com/groups/VanPri100#members">
+							Members						</option>
+											<option data-tab-name="comments" value="https://steamcommunity.com/groups/VanPri100#comments">
+							Comments						</option>
+											<option data-tab-name="curation" value="https://steamcommunity.com/groups/VanPri100#curation">
+							Curator						</option>
+									</select>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+
+	<div class="grouppage_content_area thread" id="group_tab_content_discussions">
+	<div class="maincontent">
+		<div class="leftcol">
+							<div>
+					<div class="group_breadcrumbs group_content_bodytext">
+						<a href="https://steamcommunity.com/groups/VanPri100/discussions">All Discussions</a> &gt;
+						<a href="https://steamcommunity.com/groups/VanPri100/discussions/0/">General Discussions</a> &gt;
+						<span>Topic Details</span>
+					</div>
+				</div>
+			
+						
+	<div data-panel="{&quot;type&quot;:&quot;PanelGroup&quot;}" class="forum_op" id="forum_op_804593626169648802">
+
+						<div class="forum_op_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+
+							<div class="forum_op_avatar playerAvatar offline">
+															<a href="https://steamcommunity.com/profiles/76561199639676573">
+						<img src="https://avatars.akamai.steamstatic.com/1145ccc36180579aa521ae2a773526916f5930a4.jpg" data-miniprofile="1679410845">
+					</a>
+				</div>
+			
+			<div class="authorline">
+													<a class="hoverunderline forum_op_author commentthread_author_officer" href="https://steamcommunity.com/profiles/76561199639676573" onclick="return Forum_AuthorMenu( this, 1679410845, -1 );" data-miniprofile="1679410845">
+						General Makota<span class="forum_author_action_pulldown"></span></a>
+							<div id="author_menu_1679410845_-1" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561199639676573">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/groups/VanPri100/discussions/search/?author=1679410845">View Posts</a>
+															</div>
+		</div>
+							<img width="12" height="12" src="https://community.akamai.steamstatic.com/public/images/skin_1/comment_modindicator_officer.png" title="Officer">													
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_forum_topic_804593626169648802"></div>			</div>
+						 <div class="forum_comment_actions_ctn"> 				<a class="forum_comment_action forum_comment_action_trigger" data-tooltip-type="selector" data-tooltip-content="#forum_comment_actions_menu_804593626169648802" aria-describedby="tooltip-0">
+					<span><i class="ico16 arrow_down"></i></span>
+				</a>
+			
+			
+			<div class="forum_comment_actions"><a class="forum_comment_action reply tooltip" href="javascript:Forum_ReplyToPost( '804593626169648802', '-1' );" data-tooltip-text="Quote this post in your reply" aria-describedby="tooltip-8"><span class="non_breaking_space">&nbsp;</span><img src="https://community.akamai.steamstatic.com/public/images/skin_1/forum_topicicon_reply.png?v=1">&nbsp;</a><a class="forum_comment_action reply tooltip" href="javascript:Forum_ShowAwardDialogForTopic( '804593626169648802' );" data-tooltip-text="Award"><span class="non_breaking_space">&nbsp;</span><img src="https://community.akamai.steamstatic.com/public/shared/images/award_icon.svg">&nbsp;</a></div> </div> 			
+		</div>
+
+		<div class="topic">
+		🛡️ Friendly Reminder: Stay Safe Around this profiles	</div>
+	<div class="content">
+		📣 Everyone 📣<br>It's always good to stay alert when you're contacted by profiles you don't recognize. Sometimes, accounts might act strangely or send you links to sites you’ve never seen before. If something doesn’t sit right with you, it’s perfectly fine to walk away or ignore the message altogether.<br><br>A few profiles have been brought to our attention by others in the group — they mentioned possible scams or odd behavior. If you notice anything similar, don’t hesitate to flag the profile through Steam or send me a quick message.<br><br>Here’s how you can report a profile if needed:<br><br>Open the user’s profile page.<br><br>Click the “•••” icon in the top-right.<br><br>Choose “Report Player”, then select the reason that matches (like “Suspicious behavior” or “Scam attempt”).<br><br>Keep an eye out and take care of yourselves and each other!<br><br>1.<a class="bb_link" href="https://steamcommunity.com/profiles/76561198866450602" target="_blank" rel=""> <span id="profileName">Kayoshi</span> </a><br>2.<a class="bb_link" href="https://steamcommunity.com/my" target="_blank" rel=""> MiraniKurusaki</a><br>3.<a class="bb_link" href="https://steamcommunity.com/profiles/76561199044313017" target="_blank" rel=""> Brandon&gt;&gt;3 </a><br>4.<a class="bb_link" href="https://steamcommunity.com/profiles/76561198157806970" target="_blank" rel=""> SpycrabxxX </a><br>5.<a class="bb_link" href="https://steamcommunity.com/profiles/76561198160962961" target="_blank" rel=""> Barbarian Nikki </a><br><br>Please report to steam support if you finds this guys	</div>
+		<div class="forum_audit">
+			Last edited by <a href="https://steamcommunity.com/profiles/76561199639676573" class="hoverunderline">General Makota</a>;
+		<span title="12 March, 2026 @ 10:43:54 pm PDT" data-timestamp="1773380634">Just now</span>				—		<a id="804593626169648802_-1_audits_link" class="hoverunderline" href="javascript:Forum_ShowForumAudits( '804593626169648802', '-1' );">See post history</a>
+	</div></div>
+	<div class="forum_newtopic_box" id="forum_topic_edit_804593626169648802" style="display: none;">
+		<div class="forum_newtopic_currentuser playerAvatar offline"><img src="https://avatars.akamai.steamstatic.com/1145ccc36180579aa521ae2a773526916f5930a4.jpg"></div>
+					<form id="forum_topic_edit_804593626169648802_form" method="POST" action="" onsubmit="Forum_SubmitTopicChanges( '804593626169648802', this ); return false;">
+				<input type="hidden" name="sessionid" value="7ac95a30344d16bb5ba382f0">
+				<div class="forum_newtopic_input_area">
+					<div class="gray_bevel for_text_input">
+						<input name="topic" type="text" class="forum_input_text" value="🛡️ Friendly Reminder: Stay Safe Around this profiles"><br>
+					</div>
+					<div class="gray_bevel">
+						<textarea rows="3" cols="40" class="forumtopic_reply_textarea" name="text" id="forum_topic_edit_804593626169648802_textarea" style="overflow: hidden; height: 40px;">📣 Everyone 📣
+It's always good to stay alert when you're contacted by profiles you don't recognize. Sometimes, accounts might act strangely or send you links to sites you’ve never seen before. If something doesn’t sit right with you, it’s perfectly fine to walk away or ignore the message altogether.
+
+A few profiles have been brought to our attention by others in the group — they mentioned possible scams or odd behavior. If you notice anything similar, don’t hesitate to flag the profile through Steam or send me a quick message.
+
+Here’s how you can report a profile if needed:
+
+Open the user’s profile page.
+
+Click the “•••” icon in the top-right.
+
+Choose “Report Player”, then select the reason that matches (like “Suspicious behavior” or “Scam attempt”).
+
+Keep an eye out and take care of yourselves and each other!
+
+1.[url=https://steamcommunity.com/profiles/76561198866450602] Kayoshi [/url]
+2.[url=https://steamcommunity.com/my] MiraniKurusaki[/url]
+3.[url=https://steamcommunity.com/profiles/76561199044313017] Brandon&gt;&gt;3 [/url]
+4.[url=https://steamcommunity.com/profiles/76561198157806970] SpycrabxxX [/url]
+5.[url=https://steamcommunity.com/profiles/76561198160962961] Barbarian Nikki [/url]
+
+Please report to steam support if you finds this guys</textarea>
+					</div>
+				</div>
+				<div class="forum_newtopic_action">
+
+					<button type="reset" class="btn_medium btn_grey_white_innerfade" onclick="Forum_CancelEditTopic( '804593626169648802' ); return false;">
+						<span>Cancel</span>
+					</button>
+					&nbsp;
+					<button type="submit" class="btn_medium btn_green_white_innerfade">
+						<span>Save Changes</span>
+					</button>
+
+				</div>
+			</form>
+			</div>
+<div data-featuretarget="community-awards"><div></div></div>
+<script type="text/javascript">
+	$J( function() {
+		InitializeForumTopic( {"owner":"46031621","type":"General","feature":"0","gidforum":"804593626169648801","forum_display_name":"General Discussions","forum_url":"https:\/\/steamcommunity.com\/groups\/VanPri100\/discussions\/0\/","forum_search_url":"https:\/\/steamcommunity.com\/groups\/VanPri100\/discussions\/search\/","is_public":0,"permissions":{"can_view":1,"can_post":1,"can_reply":1,"can_moderate":1,"can_edit_others_posts":1,"can_purge_topics":1,"is_banned":0,"can_delete":1,"can_edit":1}}, "https:\/\/steamcommunity.com\/forum\/46031621\/General\/",
+		"804593626169648802", {"author":"General Makota","text":"\ud83d\udce3 Everyone \ud83d\udce3\nIt's always good to stay alert when you're contacted by profiles you don't recognize. Sometimes, accounts might act strangely or send you links to sites you\u2019ve never seen before. If something doesn\u2019t sit right with you, it\u2019s perfectly fine to walk away or ignore the message altogether.\n\nA few profiles have been brought to our attention by others in the group \u2014 they mentioned possible scams or odd behavior. If you notice anything similar, don\u2019t hesitate to flag the profile through Steam or send me a quick message.\n\nHere\u2019s how you can report a profile if needed:\n\nOpen the user\u2019s profile page.\n\nClick the \u201c\u2022\u2022\u2022\u201d icon in the top-right.\n\nChoose \u201cReport Player\u201d, then select the reason that matches (like \u201cSuspicious behavior\u201d or \u201cScam attempt\u201d).\n\nKeep an eye out and take care of yourselves and each other!\n\n1.[url=https:\/\/steamcommunity.com\/profiles\/76561198866450602] Kayoshi [\/url]\n2.[url=https:\/\/steamcommunity.com\/my] MiraniKurusaki[\/url]\n3.[url=https:\/\/steamcommunity.com\/profiles\/76561199044313017] Brandon>>3 [\/url]\n4.[url=https:\/\/steamcommunity.com\/profiles\/76561198157806970] SpycrabxxX [\/url]\n5.[url=https:\/\/steamcommunity.com\/profiles\/76561198160962961] Barbarian Nikki [\/url]\n\nPlease report to steam support if you finds this guys"}		);
+					try {
+				Forum_RecordPotentialMergeTarget( {"owner":"46031621","type":"General","feature":"0","gidforum":"804593626169648801","forum_display_name":"General Discussions","forum_url":"https:\/\/steamcommunity.com\/groups\/VanPri100\/discussions\/0\/","forum_search_url":"https:\/\/steamcommunity.com\/groups\/VanPri100\/discussions\/search\/","is_public":0,"permissions":{"can_view":1,"can_post":1,"can_reply":1,"can_moderate":1,"can_edit_others_posts":1,"can_purge_topics":1,"is_banned":0,"can_delete":1,"can_edit":1}}, "804593626169648802", "\ud83d\udee1\ufe0f Friendly Reminder: Stay Safe Around this profiles" );
+			} catch( e ) { }
+			} );
+</script>
+						<script type="text/javascript">
+$J( function() { InitializeCommentThread( "ForumTopic", "ForumTopic_103582791475553029_804593626169648801_804593626169648802", {"feature":"804593626169648801","feature2":"804593626169648802","owner":"103582791475553029","total_count":0,"start":0,"pagesize":15,"has_upvoted":0,"upvotes":0,"votecountid":null,"voteupid":null,"commentcountid":null,"subscribed":false,"extended_data":"{\"topic_permissions\":{\"can_view\":1,\"can_post\":1,\"can_reply\":1,\"can_moderate\":1,\"can_edit_others_posts\":1,\"can_purge_topics\":1,\"is_banned\":0,\"can_delete\":1,\"can_edit\":1},\"original_poster\":1679410845,\"topic_gidanswer\":\"0\",\"forum_appid\":0,\"forum_public\":0,\"forum_type\":\"General\",\"forum_gidfeature\":\"0\"}","oldestfirst":true,"comments_raw":[],"track_navigation":true}, 'https://steamcommunity.com/comment/ForumTopic/', 40 ); } );
+</script>
+			
+							
+					</div>
+
+
+		<div class="rightcol responsive_local_menu">
+			<div class="rightbox_header"></div>
+			<div class="responsive_hidden">
+				<div class="rightbox_header"></div>
+				<div class="rightbox">
+					<div class="content">
+						<div class="membercounts">
+														<div class="membercount members">
+								<a href="https://steamcommunity.com/groups/SteamDB/members">
+									<span class="count oversized">9,519</span><br>
+									<span class="label">MEMBERS</span>
+								</a>
+							</div>
+							<div class="membercount ingame">
+								<div class="count oversized">1,621</div>
+								<div class="label">IN-GAME</div>
+							</div>
+							<div class="membercount online">
+								<div class="count oversized">2,728</div>
+								<div class="label">ONLINE</div>
+							</div>
+							<div style="clear: left;"></div>
+						</div>
+						<div class="joinchat_bg" onclick="OpenGroupChat( '103582791434298690' );">
+							<div class="joinchat_membercount">
+								<span class="count">5,915</span>
+								<span class="joinchat_label">IN CHAT</span>
+							</div>
+							<div class="joinchat_button">
+								Enter chat room							</div>
+						</div>
+					</div>
+					<div class="rule"></div>
+					<div class="content">
+						<div class="groupstat">
+							<div class="label">Founded</div>
+							<div class="data">23 May, 2023</div>
+						</div>
+													<div class="groupstat">
+								<div class="label">Language</div>
+								<div class="data">English</div>
+							</div>
+																	</div>
+				</div>
+				<div class="rightbox_footer"></div>
+			</div>
+			
+
+			
+			<br>
+
+
+			<div class="rightbox_header"></div>
+			
+			
+
+							
+				
+				<div class="rightbox_footer"></div>
+			
+			
+				<div class="rightbox_header"></div>
+	
+	<div class="rightbox_footer"></div>
+
+
+			
+
+		</div>
+
+		<div style="clear: both;"></div>
+	</div>
+</div>
+<div id="forum_modal" class="modal_frame" style="display:none;">
+	<div class="modal_top_band">
+		<div class="modal_close"><a href="javascript:hideModal( 'forum_modal' )"><img src="https://community.akamai.steamstatic.com/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close"></a></div>
+	</div>
+	<div class="modal_box">
+		<div class="modal_box_ctn">
+					<div id="forum_movetopic_modal_content">
+				<h2>Move Topic</h2>
+				<div class="forum_modal_text">
+					Select a forum to move this topic to.  A redirect can optionally be left in this forum to direct people to the new location.					<br><br>
+
+					
+
+					<form id="forum_movetopic_form">
+						<input type="hidden" name="sessionid" value="7ac95a30344d16bb5ba382f0">
+						<input type="hidden" name="gidforumtopic_list" value="">
+						<input type="hidden" name="destination_clanidowner" value="">
+						<input type="hidden" name="destination_appidowner" value="">
+						<input type="hidden" name="source_forum_name" value="">
+
+						<div class="forum_movetopic_destination_selector">
+							Destination:							<select name="destination_gidforum">
+
+							</select>
+							<span id="forum_movetopic_destination_unavailable" class="forum_modal_ajax_error" style="display: none;">No forums available.</span>
+							<span id="forum_movetopic_destination_throbber"><img src="https://community.akamai.steamstatic.com/public/images/login/throbber.gif"></span>
+						</div>
+						<br>
+
+						Leave redirect for:						<select name="redirect_expiry_hours" style="width: 240px;">
+							<option value="0">No redirect</option>
+							<option value="1">1 hour</option>
+							<option value="24">1 day</option>
+							<option value="168">1 week</option>
+							<option value="720">1 month</option>
+							<option value="-1">Permanent</option>
+						</select>
+						<br><br>
+					</form>
+				</div>
+				<div class="forum_report_instructions">&nbsp;</div>
+				<div class="buttons">
+					<div id="submit_move_topic_button" class="gray_square_button active">
+						<div class="left"></div><div class="right"></div>
+						<div class="button_label">Move Topic</div>
+					</div>
+					<div class="gray_square_button" onclick="hideModal( 'forum_modal' );">
+						<div class="left"></div><div class="right"></div>
+						<div class="button_label">Cancel</div>
+					</div>
+				</div>
+			</div>
+			<div id="forum_movetopic_results">
+				<h2>Topic moved.</h2>
+				<div class="forum_modal_text">The topic has been moved to the new forum.  Where would you like to return to?</div>
+				<div class="buttons">
+					<div class="gray_square_button active" id="forum_movetopic_results_back">
+						<div class="left"></div><div class="right"></div>
+						<div class="button_label">Return to topic list</div>
+					</div>
+					<div class="gray_square_button" id="forum_movetopic_results_topic">
+						<div class="left"></div><div class="right"></div>
+						<div class="button_label">Go to the new topic</div>
+					</div>
+				</div>
+			</div>
+				</div>
+	</div>
+</div>
+
+	<div id="report_modal_content" style="display: none;">
+		<h2><img src="https://community.akamai.steamstatic.com/public/images/skin_1/notification_icon_flag.png"> Report this post</h2>
+		<div class="forum_newtopic_header">REASON</div>
+		<form id="forum_reportpost_form">
+			<input type="hidden" name="sessionid" value="7ac95a30344d16bb5ba382f0">
+			<input type="hidden" name="author" value="">
+			<input type="hidden" name="gidcomment" value="">
+			<input type="hidden" name="gidtopic" value="">
+
+			<div class="gray_bevel">
+				<textarea rows="3" cols="40" class="forumtopic_reply_textarea" name="report_reason" id="forum_report_reason"></textarea>
+			</div>
+		</form>
+		<div class="forum_report_instructions">Note: This is ONLY to be used to report spam, advertising, and problematic (harassment, fighting, or rude) posts.</div>
+	</div>
+<div id="modalBG" style="display: none;"></div>
+<!-- screenshot viewer -->
+<div id="modalContentScrollbarHack" style="display: none"></div>
+
+<div id="modalContent" class="modal_frame" style="display: none">
+	<div id="modalContentTitleBar">
+		<a id="modalContentTitleBarLink" href="" target="_blank">&nbsp;</a>
+		<a id="modalContentTitleBarImageLink" href="" target="_blank"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/ico_external_link.gif" alt=""></a>
+		<div id="modalContentDismiss" class="modalContentDismissImage" onclick="HideModalContent();">
+			<img src="https://community.akamai.steamstatic.com/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close">
+		</div>
+	</div>
+	<div id="modalContentWait"><img src="https://community.akamai.steamstatic.com/public/images/login/throbber.gif" alt="Loading"></div>
+	<div id="modalContentFrameContainer"></div>
+</div><!-- /screenshot viewer -->
+
+</div>
+
+	<div id="reportAbuseModal" style="display: none;">
+		<div id="reportAbuseModalClose"><a href="javascript:hideModal('reportAbuseModal')"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/modalClose2.gif" width="11" height="11" border="0"></a></div>
+		<h1>Report Violation</h1>
+		<div class="reportAbuseModalRule"></div>
+		<div id="reportAbuseModalContents">
+			<form method="post" onsubmit="return checkAbuseSub( this );" action="https://steamcommunity.com/actions/ReportAbuse/" id="abuseForm">
+				<input type="hidden" name="abuseID" value="103582791475553029">
+				<input type="hidden" name="sessionid" value="7ac95a30344d16bb5ba382f0">
+													<div class="abuseOptions">
+													<div class="abuseOption">
+								<input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Harassment" value="Harassment">
+								<label for="AbuseRadio_Harassment">Harassment</label>
+							</div>
+													<div class="abuseOption">
+								<input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Spamming" value="Spamming">
+								<label for="AbuseRadio_Spamming">Spamming Invites</label>
+							</div>
+													<div class="abuseOption">
+								<input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Spoofing" value="Spoofing">
+								<label for="AbuseRadio_Spoofing">Impersonating another group or organization</label>
+							</div>
+													<div class="abuseOption">
+								<input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Advertisement" value="Advertisement">
+								<label for="AbuseRadio_Advertisement">Spamming Advertisements/Links</label>
+							</div>
+													<div class="abuseOption">
+								<input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Offensive_Profile" value="Offensive Profile">
+								<label for="AbuseRadio_Offensive_Profile">Offensive Profile or Avatar</label>
+							</div>
+													<div class="abuseOption">
+								<input class="abuseRadio" type="radio" name="abuseType" id="AbuseRadio_Piracy_or_Cheats" value="Piracy or Cheats">
+								<label for="AbuseRadio_Piracy_or_Cheats">Piracy or Cheats</label>
+							</div>
+												<div style="clear: left;"></div>
+					</div>
+								<div class="abuseDescriptionCtn gray_bevel fullwidth">
+					<textarea name="abuseDescription" id="abuseDescriptionArea" rows="3" cols="26" placeholder="Please provide a description of the violation (required)"></textarea>
+				</div>
+				<div class="reportAbuseButtons">
+					<button type="submit" class="btn_green_white_innerfade btn_medium">
+						<span>Submit Report</span>
+					</button>
+				</div>
+			</form>
+
+		</div>
+
+	</div>
+
+		<div class="sih-left-side-features-menu sih-global"><div id="sih-features-main-modal" class="sih-features-main-modal left-side-menu collapsed" data-name="left-side-menu">
+      <div class="sih-features-main-modal__fade hidden"></div>
+      <div class="sih-modal sih-global">
+        <div class="sih-modal__inner row">
+          <div class="sih-features-main-modal__left-sidebar"><div class="sih-features-main-modal__tab-item sih-tab-item" data-name="shopping">
+          <div class="sih-tab-item__image">
+            <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/group/shopping.svg" alt="shopping">
+          <div class="sih-tab-item__image_new"></div></div>
+
+          <span class="text text_grey-800 fs-14 semi-bold">Marketplace</span>
+        </div><div class="sih-features-main-modal__tab-item sih-tab-item" data-name="free">
+          <div class="sih-tab-item__image">
+            <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/group/free.svg" alt="free">
+          </div>
+
+          <span class="text text_grey-800 fs-14 semi-bold">Freebies</span>
+        </div><div class="sih-features-main-modal__tab-item sih-tab-item" data-name="safety">
+          <div class="sih-tab-item__image">
+            <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/group/safety.svg" alt="safety">
+          </div>
+
+          <span class="text text_grey-800 fs-14 semi-bold">Security &amp; Trust</span>
+        </div><div class="sih-features-main-modal__tab-item sih-tab-item" data-name="account">
+          <div class="sih-tab-item__image">
+            <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/group/account.svg" alt="account">
+          </div>
+
+          <span class="text text_grey-800 fs-14 semi-bold">Profile &amp; Account</span>
+        </div><div class="sih-features-main-modal__tab-item sih-tab-item" data-name="analytics">
+          <div class="sih-tab-item__image">
+            <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/group/analytics.svg" alt="analytics">
+          </div>
+
+          <span class="text text_grey-800 fs-14 semi-bold">Analytics &amp; Data</span>
+        </div><div class="sih-features-main-modal__tab-item sih-tab-item sih-tab-item__sih_black" data-name="sih_black">
+        <div class="sih-tab-item__image">
+          <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/group/sih_black_inactive.svg" alt="$sih_black">
+        </div>
+
+        <span class="text text_grey-800 fs-14 semi-bold">SIH Black </span>
+      </div></div>
+          <div class="sih-features-main-modal__right-sidebar hidden"><section id="shopping" class="sih-features-main-modal__tab-info sih-features-group">
+        <div class="sih-features-group__title">Marketplace</div>
+        <div class="sih-features-group__grid"><div class="sih-tab-info sih-tab-info__sih_keys " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/sih_keys.svg" alt="sih_keys">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              SIH Games
+            </div>
+            <div class="sih-tab-info__new-badge">New</div>
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Buy games cheaper than on Steam</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Select a game
+        </div>
+      </div>
+    </div><div class="sih-tab-info sih-tab-info__sih_market " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/sih_market.svg" alt="sih_market">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              SIH.Market
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Get Steam skins at the best prices</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Go to the store
+        </div>
+      </div>
+    </div></div>
+      </section><section id="free" class="sih-features-main-modal__tab-info sih-features-group">
+        <div class="sih-features-group__title">Freebies</div>
+        <div class="sih-features-group__grid"><div class="sih-tab-info sih-tab-info__egs_free " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/egs_free.svg" alt="egs_free">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              Epic Games Giveaways
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Сlaim free games from weekly Epic Games giveaways</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Claim All Games
+        </div>
+      </div>
+    </div><div class="sih-tab-info sih-tab-info__freebie_collector " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/freebie_collector.svg" alt="freebie_collector">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              Freebie Collector
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Collect available free Steam items with one click</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Claim
+        </div>
+      </div>
+    </div><div class="sih-tab-info sih-tab-info__case_simulator " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/case_simulator.svg" alt="case_simulator">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              Case Simulator
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Check Steam cases for potential profit</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Use for free
+        </div>
+      </div>
+    </div></div>
+      </section><section id="safety" class="sih-features-main-modal__tab-info sih-features-group">
+        <div class="sih-features-group__title">Security &amp; Trust</div>
+        <div class="sih-features-group__grid"><div class="sih-tab-info sih-tab-info__sih_sda " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/sih_sda.svg" alt="sih_sda">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              SIH SDA
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Secure Steam authenticator with encrypted data and automatic trade confirmations.</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Connect
+        </div>
+      </div>
+    </div><div class="sih-tab-info sih-tab-info__sih_rep " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/sih_rep.svg" alt="sih_rep">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              SIH REP
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Check trader reputation and avoid untrusted Steam accounts</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Leave review
+        </div>
+      </div>
+    </div></div>
+      </section><section id="account" class="sih-features-main-modal__tab-info sih-features-group">
+        <div class="sih-features-group__title">Profile &amp; Account</div>
+        <div class="sih-features-group__grid"><div class="sih-tab-info sih-tab-info__profile_customization " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/profile_customization.svg" alt="profile_customization">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              Profile Customization
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Apply any Steam profile design for free</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Use for free
+        </div>
+      </div>
+    </div><div class="sih-tab-info sih-tab-info__level_up_feature " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/level_up_feature.svg" alt="level_up_feature">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              Level Up Feature
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">The most cost-effective way to level up your Steam account</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Use for free
+        </div>
+      </div>
+    </div><div class="sih-tab-info sih-tab-info__cs2_items_history " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/cs2_items_history.svg" alt="cs2_items_history">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              CS2 Items history
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">View the history of obtained CS2 items</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Use for free
+        </div>
+      </div>
+    </div></div>
+      </section><section id="analytics" class="sih-features-main-modal__tab-info sih-features-group">
+        <div class="sih-features-group__title">Analytics &amp; Data</div>
+        <div class="sih-features-group__grid"><div class="sih-tab-info sih-tab-info__steam_stats " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/steam_stats.svg" alt="steam_stats">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              Steam-stats
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">Explore Steam game statistics, trends, and value</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Visit now
+        </div>
+      </div>
+    </div><div class="sih-tab-info sih-tab-info__floats_database " title="">
+      <img src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/assets/sihFeatures/floats_database.svg" alt="floats_database">
+      <div class="sih-tab-info__right-side">
+        <div class="column">
+          <div class="row gap-8">
+            <div class="text text_white fs-14 lh-20 semi-bold">
+              Floats Database
+            </div>
+            
+            
+          </div>
+
+          <span class="text text_grey-800 fs-14 lh-20">A billion-scale database of CS2 item float values</span>
+        </div>
+        <div class="sih-go-to-onboarding sih-tab-info__btn">
+          Find top floats
+        </div>
+      </div>
+    </div></div>
+      </section></div>
+        </div>
+      <div class="sih-features-main-modal__toggle-btn sih-toggle-btn collapsed">
+          <div class="sih-toggle-btn__toggle-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="5" height="11" viewBox="0 0 5 11">
+              <path d="M3.80005 0.80011L0.800049 5.30011L3.80005 9.80011" stroke="#C5CCD0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+          </div>
+        </div></div>
+    </div></div></div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer" class=""></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+					<div class="footer_content">
+				<span id="footerLogo"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo"></span>
+				<span id="footerText">
+					© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.geonames.org" target="_blank" rel=" noopener">geonames.org</a>.					<br>
+											<span class="valve_links">
+							<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+							&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+							&nbsp; | &nbsp;<a href="https://help.steampowered.com/faqs/view/10BB-D27A-6378-4436" target="_blank">Accessibility</a>
+							&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+                            &nbsp;| &nbsp;<a href="http://store.steampowered.com/account/cookiepreferences/" target="_blank">Cookies</a>
+						</span>
+									</span>
+			</div>
+							<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" role="link" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+			</div>
+	<script type="text/javascript">g_rgDelayedLoadImages={"member_tiles":true};</script>
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+
+<div class="FullModalOverlay" style="display: none;"><div class="ModalOverlayContent ModalOverlayBackground"></div></div><div class="miniprofile_hover" style="display: none;"><div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div><div class="miniprofile_hover_inner shadow_content"></div></div><sih-app-root ng-version="20.3.6"><router-outlet></router-outlet><sih-global-page><router-outlet></router-outlet><empty-component></empty-component><!----></sih-global-page><!----><!----><!----></sih-app-root>
+    <div id="sih-modal__buy-orders">
+      <div class="sih-modal__buy-orders__fade"></div>
+    
+    <div class="sih-modal sih-global ordering-tab">
+      <div class="sih-modal__close"></div>
+      <div class="sih-modal__inner sih-modal__column">
+        <div class="ordering-tab__header sih-modal__row gap-12 items-baseline">
+          <div class="sih-modal__title title">Checkout</div>
+          <div class="ordering-tab__header-total-block sih-modal__row">
+            <div class="ordering-tab__header-total-row sih-modal__row items-center gap-5">
+              <span class="sih-modal__all-item-count sih-modal__text sih-modal__text_md sih-modal__text_light-grey"></span>
+              <span class="sih-modal__text sih-modal__text_md sih-modal__text_light-grey">items</span>
+            </div>
+            <span class="ordering-animated"></span>
+          </div>
+        </div>
+
+        <div class="orders-tab__main sih-modal__row justify-between mt-36 gap-20">
+    <div class="ordering-tab__left-block sih-modal__column">
+      <div class="sih-modal__column ordering-tab__listing-block available">
+        <div class="sih-modal__controls sih-modal__row justify-between">
+          <div class="sih-modal__row gap-5">
+            <span class="sih-modal__text sih-modal__text_md sih-modal__text_bold">Available to buy now -</span>
+
+            <div class="sih-modal__controls__total-row sih-modal__row">
+              <span class="ordering-tab__total-number sih-modal__text sih-modal__text_md sih-modal__text_bold"></span>
+              <span class="ordering-animated"></span>
+            </div>
+          </div>
+          <div class="sih-modal__row gap-23 items-center px-10">
+            <a href="javascript:void(0)" class="ordering-tab__delete-all sih-modal__text sih-modal__text_sm">Delete all</a>
+
+            <label class="sih-modal__row items-center flex-row-reverse gap-15" for="select-all-available">
+              <input type="checkbox" name="select-all" id="select-all-available" class="ordering-tab__select-all-items-checkbox hidden" checked="">
+              <label class="fake-checkbox" for="select-all-available"></label>
+              <label for="select-all-available" class="ordering-tab__select-all_label sih-modal__text sih-modal__text_white sih-modal__text_sm">Unselect all</label>
+            </label>
+          </div>
+        </div>
+        <div class="splitter-1 bg-grey mt-16 mb-10"></div>
+        <div class="ordering-tab__content available sih-modal__column"></div>
+      </div>
+
+      <div class="sih-modal__column ordering-tab__listing-block unavailable">
+        <div class="sih-modal__controls sih-modal__row justify-between mt-51">
+          <div class="sih-modal__row gap-5">
+            <span class="sih-modal__text sih-modal__text_md sih-modal__text_bold">Requires refills -
+            </span>
+
+            <div class="sih-modal__controls__total-row sih-modal__row">
+              <span class="ordering-tab__total-number sih-modal__text sih-modal__text_md sih-modal__text_bold"></span>
+              <span class="ordering-animated"></span>
+            </div>
+          </div>
+          <div class="sih-modal__row gap-23 items-center px-10">
+            <a href="javascript:void(0)" class="ordering-tab__delete-all sih-modal__text sih-modal__text_sm">Delete all</a>
+
+            <label class="sih-modal__row items-center flex-row-reverse gap-15" for="select-all-unavailable">
+              <input type="checkbox" name="select-all" id="select-all-unavailable" class="ordering-tab__select-all-items-checkbox hidden" checked="">
+              <label class="fake-checkbox" for="select-all-unavailable"></label>
+              <label for="select-all-unavailable" class="ordering-tab__select-all_label sih-modal__text sih-modal__text_white sih-modal__text_sm">Unselect all</label>
+            </label>
+          </div>
+        </div>
+
+        <div class="splitter-1 bg-grey mt-16 mb-10"></div>
+
+        <div class="ordering-tab__content unavailable  sih-modal__column"></div>
+      </div>
+    </div>
+  <div class="right-block ordering-tab__right-block sih-modal__column">
+      <div class="sih-modal__row justify-between">
+        <span class="sih-modal__text sih-modal__text_lg">Buy on Steam ID</span>
+      </div>
+      <div class="sih-modal__row justify-between bg-grey mt-16 rounded-4 px-6 py-6">
+        <div class="sih-modal__row gap-8 items-center">
+          <div class="right-block__user-image w-36 h-36 bg-black-100"></div>
+          <div class="sih-modal__column">
+            <span class="right-block__user-name sih-modal__text sih-modal__text_md"></span>
+            <span class="right-block__user-steamid sih-modal__text sih-modal__text_sm sih-modal__text_light-grey"></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="right-block__order-info">
+        <div class="right-block__order-info_inner">
+          <div class="sih-modal__row justify-between mt-31 gap-5">
+            <span class="sih-modal__text sih-modal__text_md sih-modal__text_bold">Your SIH balance</span>
+            <span class="sih-modal__user-balance sih-modal__text sih-modal__text_md sih-modal__text_bold"></span>
+          </div>
+          <div class="sih-modal__column mt-16 gap-8">
+            <div class="right-block__unavailable-row sih-modal__row justify-between gap-5 hidden">
+              <div class="sih-modal__row gap-5">
+                <span class="sih-modal__text sih-modal__text_md sih-modal__text_light-grey">Not enough for items</span>
+                <div class="sih-modal__row">
+                  <span class="sih-modal__text sih-modal__text_md sih-modal__text_light-grey">(</span>
+                  <span class="sih-modal__unavailable-item-count sih-modal__text sih-modal__text_md sih-modal__text_light-grey"></span>
+                  <span class="sih-modal__text sih-modal__text_md sih-modal__text_light-grey">)</span>
+                </div>
+              </div>
+              <span class="sih-modal__unavailable-total-cost sih-modal__text sih-modal__text_md sih-modal__text_light-grey"></span>
+            </div>
+
+            <div class="splitter-1 bg-grey mt-9"></div>
+          </div>
+
+          <div class="sih-modal__column mt-11 mb-10 gap-10">
+            <span class="sih-modal__text sih-modal__text_lg">Total</span>
+
+            <div class="right-block__available-row sih-modal__row justify-between gap-5 hidden">
+              <div class="sih-modal__row gap-5">
+                <span class="sih-modal__text sih-modal__text_md sih-modal__text_blue">Items available now</span>
+                <div class="sih-modal__row">
+                  <span class="sih-modal__text sih-modal__text_md sih-modal__text_blue">(</span>
+                  <span class="sih-modal__available-item-count sih-modal__text sih-modal__text_blue sih-modal__text_md"></span>
+                  <span class="sih-modal__text sih-modal__text_md sih-modal__text_blue">)</span>
+                </div>
+              </div>
+
+              <span class="sih-modal__available-total-cost sih-modal__text sih-modal__text_blue sih-modal__text_md"></span>
+            </div>
+
+            <div class="right-block__all-orders-row sih-modal__row justify-between gap-5">
+              <div class="sih-modal__row gap-5">
+                <span class="sih-modal__text sih-modal__text_md">For all</span>
+                <div class="sih-modal__row">
+                  <span class="sih-modal__text sih-modal__text_md">(</span>
+                  <span class="sih-modal__ordering-item-count sih-modal__text sih-modal__text_md"></span>
+                  <span class="sih-modal__text sih-modal__text_md">)</span>
+                </div>
+              </div>
+              <span class="sih-modal__total-cost sih-modal__text sih-modal__text_md"></span>
+            </div>
+          </div>
+        <label class="sih-global sih-tos" for="sih-tos-ordering">
+      <input type="checkbox" name="sih-tos" id="sih-tos-ordering" class="sih-modal__input hidden">
+      <label class="fake-checkbox sih-tos__input" for="sih-tos-ordering"></label>
+      <div class="row items-center flex-wrap gap-5 sih-modal__text sih-modal__text_md ticker-wrapper">
+        <span class="ticker">
+          <span class="sih-modal__text_blue sih-modal__text_white">I agree to the</span>
+          <a href="https://sih.app/terms-of-service" target="_blank" class="sih-modal__text_blue text-decoration-underline hover-opacity-8">Terms and Conditions.</a>
+          <span class="sih-modal__text_blue sih-modal__text_white sih-tos__info">I further certify that I am not a citizen, resident or connected to the site from the following countries: United Arab Emirates.</span>
+        </span>
+      </div>
+    </label></div>
+      </div>
+
+      <div class="right-block__buttons sih-modal__column gap-15 mt-34">
+        <button id="sih_buy_available" class="sih-modal__button sih-modal__button_blue justify-center opacity-5 pointer-events-none rounded-8 py-16" title="buy_available">
+          Buy available
+        </button>
+        <button class="sih__buy-all-items sih-modal__button sih-modal__button_light-grey justify-center opacity-5 pointer-events-none rounded-8 py-16" title="buy_all">
+          Refill your balance and buy all
+        </button>
+      </div>
+
+      <div class="sih-modal__error mt-20"></div>
+
+      <div class="sih-modal__row text-center mt-47">
+        <span class="sih-modal__text sih-modal__text_md"> After refilling the balance of the required amount, the purchase will be made automatically. </span>
+      </div>
+    </div></div>
+      </div>
+    
+    <div class="sih-plug sih-plug__steam-guard sih-steam-guard hidden">
+      <div class="sih-steam-guard__container">
+        <div class="column max-w-360 gap-14">
+          <span class="title">Your account is not protected by Steam Guard</span>
+          <span class="sih-modal__text sih-modal__text_md sih-modal__text_light-grey lh-26">According to Steam rules, you need Steam Guard protection to make trades</span>
+        </div>
+
+        <div class="row mt-52">
+          <a href="https://store.steampowered.com/twofactor/manage" target="_blank" class="sih-modal__text sih-modal__text_md sih-modal__text_blue underline hover-opacity-8">Steam Guard setup</a>
+        </div>
+
+        <div class="column mt-40 gap-14">
+          <a href="https://help.steampowered.com/ru/faqs/view/06B0-26E6-2CF8-254C" target="_blank" class="sih-modal__text sih-modal__text_md sih-modal__text_blue underline hover-opacity-8">Learn more about Steam Guard</a>
+          <a href="https://help.steampowered.com/ru/faqs/view/7EFD-3CAE-64D3-1C31" target="_blank" class="sih-modal__text sih-modal__text_md sih-modal__text_blue underline hover-opacity-8">Learn more about Steam Guard Mobile Authenticator</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+    <div class="sih-modal sih-global orders-tab">
+      <div class="sih-modal__close"></div>
+      <div class="sih-modal__inner sih-modal__column">
+        <div class="orders-tab__header sih-modal__row gap-60">
+          <div class="sih-modal__column">
+            <div class="title sih-modal__title">My orders</div>
+          </div>
+        </div>
+        <div class="orders-tabs orders-tabs__container sih-modal__row gap-30 mb-20">
+          <label for="orders-active" class="orders-tabs__label">
+            <input type="radio" name="orders-tab" id="orders-active" class="orders-tabs__input" checked="">
+            <span class="orders-tabs__item sih-modal__text sih-modal__text_sm">Active orders</span>
+          </label>
+          <label for="orders-history" class="orders-tabs__label">
+            <input type="radio" name="orders-tab" id="orders-history" class="orders-tabs__input">
+            <span class="orders-tabs__item sih-modal__text sih-modal__text_sm">Order history</span>
+          </label>
+          <a href="javascript:void(0)" class="orders-tabs__refresh-btn sih-modal__row items-center gap-5 absolute right-32 bottom-0">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4C9.87827 4 7.84344 4.84285 6.34315 6.34315C4.84285 7.84344 4 9.87827 4 12C4 14.1217 4.84285 16.1566 6.34315 17.6569C7.84344 19.1571 9.87827 20 12 20C15.73 20 18.84 17.45 19.73 14H17.65C16.83 16.33 14.61 18 12 18C10.4087 18 8.88258 17.3679 7.75736 16.2426C6.63214 15.1174 6 13.5913 6 12C6 10.4087 6.63214 8.88258 7.75736 7.75736C8.88258 6.63214 10.4087 6 12 6C13.66 6 15.14 6.69 16.22 7.78L13 11H20V4L17.65 6.35Z" fill="white"></path>
+            </svg>
+            <div class="orders-tabs__timer sih-modal__row items-center" style="display: none;">
+              <span class="sih-modal__text sih-modal__text_md sih-modal__text_light-grey">00:</span>
+              <span class="orders-tabs__timer-seconds sih-modal__text sih-modal__text_md sih-modal__text_light-grey">00</span>
+            </div>
+          </a>
+        </div>
+        <div class="orders-toggle-tabs">
+          <input type="radio" id="orders-toggle-tabs-skins" name="orders-toggle-tabs" class="orders-toggle-tabs orders-toggle-tabs__hidden-input" checked="">
+          <label for="orders-toggle-tabs-skins" class="orders-toggle-tabs__tab"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none">
+              <path d="M2.46707 1.28815C2.52269 1.30962 2.56308 1.34184 2.653 1.43541C2.69872 1.48296 3.37461 2.16635 4.15414 2.95328C4.93366 3.74021 6.12543 4.94285 6.80133 5.62624C7.47722 6.30963 8.32685 7.16636 8.6888 7.52914L9.34717 8.19029L8.9334 8.60753C8.70633 8.83763 8.31542 9.22649 8.06548 9.47193C7.81479 9.71737 7.53589 9.99578 7.44445 10.0901C7.35301 10.1852 7.27681 10.2627 7.27453 10.2627C7.26538 10.2627 6.84476 9.84622 6.15439 9.1544C5.76272 8.7617 5.30095 8.3038 5.1295 8.1366C4.81708 7.83364 4.60219 7.61121 4.38655 7.36654C4.3675 7.34507 4.33473 7.30748 4.31416 7.28294C4.29282 7.2584 4.27225 7.23462 4.26844 7.23002C4.25167 7.21238 4.02079 6.93396 3.96287 6.8611C3.86458 6.73914 3.67103 6.47683 3.5674 6.32727C2.71853 5.10469 2.24685 3.82919 2.14322 2.48158C2.11883 2.16252 2.11579 2.08735 2.11579 1.82197C2.11655 1.50981 2.12036 1.47683 2.1676 1.39629C2.22704 1.29428 2.36039 1.24596 2.46707 1.28815Z" fill="#DFE6EB"></path>
+              <path d="M10.5705 7.57343C10.6848 7.63556 10.8578 7.78436 11.0216 7.96C11.2007 8.15251 11.2388 8.20927 11.2388 8.28367C11.2388 8.39411 11.1839 8.48001 10.9942 8.66409C10.6955 8.95325 8.13667 11.538 8.04065 11.6477C7.8753 11.8356 7.81282 11.8877 7.71985 11.9184C7.6406 11.9445 7.60936 11.9453 7.56669 11.92C7.48058 11.8701 7.22912 11.6362 7.03329 11.423C6.91213 11.291 6.89537 11.2673 6.88394 11.2136C6.86108 11.1016 6.9388 10.972 7.1293 10.804C7.17731 10.7626 7.41658 10.5279 7.66194 10.2832C9.04421 8.90493 9.31548 8.63265 9.41911 8.5222C9.45721 8.48155 9.53417 8.39871 9.59056 8.33812C9.69419 8.22537 10.0348 7.88023 10.1049 7.8158C10.2268 7.70382 10.3579 7.60258 10.4265 7.56806C10.4798 7.54122 10.5133 7.54275 10.5705 7.57343Z" fill="#DFE6EB"></path>
+              <path d="M12.6708 10.7876C13.5997 11.7249 14.3723 12.5057 14.3876 12.5226C14.5026 12.6514 14.591 12.8048 14.6215 12.9291C14.6436 13.0188 14.6451 13.1983 14.6246 13.3072L14.6116 13.3785L14.6604 13.4376C14.8417 13.6593 14.9385 13.8786 14.9857 14.1777C15.0002 14.2698 15.0017 14.3035 14.9987 14.4385C14.9941 14.6073 14.9934 14.6119 14.9667 14.7468C14.8684 15.2362 14.5575 15.6527 14.1376 15.8574C13.8008 16.0224 13.3848 16.0454 13.0144 15.9203C12.8765 15.8743 12.7607 15.8061 12.6243 15.691C12.5885 15.6619 12.1465 15.2193 11.6413 14.7093C9.23645 12.2787 8.78916 11.8277 8.7221 11.7648C8.63447 11.6827 8.56817 11.6122 8.54074 11.573L8.52093 11.5431L8.59713 11.4695C8.72819 11.3422 10.826 9.23296 10.8984 9.15626C10.9357 9.11561 10.97 9.08263 10.9746 9.08263C10.9784 9.08263 11.7419 9.84962 12.6708 10.7876Z" fill="#DFE6EB"></path>
+            </svg>
+            <span>Skins</span><span class="count">0</span>
+          </label>
+
+          <input type="radio" id="orders-toggle-tabs-keys" name="orders-toggle-tabs" class="orders-toggle-tabs orders-toggle-tabs__hidden-input">
+          <label for="orders-toggle-tabs-keys" class="orders-toggle-tabs__tab"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none">
+              <path d="M15.9678 11.746L14.4848 4.67952C14.3182 3.88536 13.6176 3.31689 12.8065 3.31689H11.3697C10.8866 3.31689 10.4948 3.70871 10.4948 4.19186C10.4948 4.67499 10.1029 5.06683 9.61981 5.06683H8.71531H7.28462H6.38037C5.89697 5.06683 5.50515 4.67502 5.50515 4.19186V3.96643C5.50515 3.48302 5.11359 3.31689 4.63019 3.31689H3.19347C2.38228 3.31689 1.68172 3.88536 1.51509 4.67952L0.0320285 11.746C-0.053284 12.1533 0.0335286 12.5776 0.272216 12.9185C0.510904 13.2592 0.880216 13.4862 1.29206 13.545L2.15053 13.6678C2.75981 13.7546 3.36056 13.4619 3.66781 12.9287L5.20209 10.2632C5.38947 9.93796 5.73678 9.7373 6.11209 9.7373H9.88778C10.2633 9.7373 10.6101 9.93796 10.7975 10.2632L12.3323 12.9287C12.6393 13.4619 13.2401 13.7546 13.8494 13.6678L14.7081 13.545C15.1199 13.4861 15.489 13.2592 15.7277 12.9185C15.9664 12.5776 16.0534 12.1533 15.9678 11.746ZM5.38175 7.74136H4.29106V8.8318H3.42659V7.74136H2.33597V6.87689H3.42662V5.78646H4.29109V6.87689H5.38178L5.38175 7.74136ZM12.2385 5.45721C12.6021 5.45721 12.8968 5.75196 12.8968 6.11577C12.8968 6.4793 12.6021 6.77405 12.2385 6.77405C11.8744 6.77405 11.5797 6.4793 11.5797 6.11577C11.5797 5.75196 11.8744 5.45721 12.2385 5.45721ZM10.9212 8.09139C10.5576 8.09139 10.2626 7.79643 10.2626 7.43258C10.2626 7.06902 10.5576 6.77402 10.9212 6.77402C11.285 6.77402 11.5797 7.06902 11.5797 7.43258C11.5797 7.79643 11.2849 8.09139 10.9212 8.09139ZM12.2385 9.40827C11.8744 9.40827 11.5797 9.11327 11.5797 8.74971C11.5797 8.38614 11.8744 8.09139 12.2385 8.09139C12.6021 8.09139 12.8968 8.38614 12.8968 8.74971C12.8968 9.11327 12.6021 9.40827 12.2385 9.40827ZM13.5551 8.09139C13.1916 8.09139 12.8968 7.79643 12.8968 7.43258C12.8968 7.06902 13.1916 6.77402 13.5551 6.77402C13.9189 6.77402 14.2139 7.06902 14.2139 7.43258C14.2139 7.79643 13.9189 8.09139 13.5551 8.09139Z" fill="#DFE6EB"></path>
+            </svg>
+            <span>Games</span><span class="count">0</span>
+          </label>
+        </div>
+      
+    <div class="orders-tab__content orders-active-tab__content sih-modal__column gap-10"></div>
+  
+    <div class="orders-tab__content orders-history-tab__content hidden"></div>
+    <div id="pagination-container"></div>
+  
+    <div class="orders-tab__content orders-active-keys-tab__content sih-modal__column gap-10 hidden"></div>
+  
+    <div class="orders-tab__content orders-history-keys-tab__content hidden"></div>
+    <div id="pagination-keys-container"></div>
+  </div>
+    </div>
+  
+    <div class="sih-modal sih-global cart-tab">
+      <div class="sih-modal__close"></div>
+      <div class="sih-modal__inner sih-modal__column">
+        <div class="sih-modal__header sih-modal__column gap-20">
+          <div class="header-container">
+            <div class="sih-modal__row title gap-23 items-center lh-26 pt-32 px-36">
+              <div class="cart-tab__title sih-modal__text fs-24"></div>
+              <div class="sih-modal__cart-count fs-24"></div>
+            </div>
+            <div class="header-container__timer fs-24" title="Price is current for the time specified"></div>
+          </div>
+
+          <div class="sih-modal__column cart-tab__content mt-16"></div>
+          <div class="sih-modal__error"></div>
+        </div>
+
+        <div class="sih-modal__bottom sih-modal__column gap-20"></div>
+      </div>
+    </div>
+  </div>
+  
+    <div id="sih-enter-password">
+      <div class="sih-enter-password__fade"></div>
+      <div class="sih-modal sih-global">
+        <div class="sih-modal__close"></div>
+        <div class="sih-modal__inner sih-modal__column items-start">
+          <div class="sih-modal__text sih-modal__text_xl sih-modal__text_white">
+            Enter two-step authentication password
+          </div>
+          <label class="sih-modal__column w-248" for="sih-password-input">
+            <input type="password" autocomplete="new-password" class="sih-modal__input" id="sih-password-input" placeholder="Enter password">
+          </label>
+          <a href="https://sih.app/" target="_blank" class="sih-modal__text_md sih-modal__text_blue text-decoration-underline">I forgot my password</a>
+          <label class="sih-modal__trading-rules sih-modal__row items-center gap-10 mt-16" for="trading-rules">
+            <input type="checkbox" name="trading-rules" id="trading-rules" class="hidden">
+            <label class="fake-checkbox" for="trading-rules"></label>
+            <div class="sih-modal__text sih-modal__text_md">
+              I confirm that I have read the
+              <a href="https://sih.app/" target="_blank" class="sih-modal__text_blue text-decoration-underline">trading rules</a>
+            </div>
+          </label>
+          <div class="sih-modal__error mt-20"></div>
+          <div class="sih-modal__buttons mt-16">
+            <button id="sih-enter-password-btn" class="sih-modal__button sih-modal__button_blue px-24 py-16" disabled="disabled">
+              Continue
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  <div class="refill-sih-balance">
+      <div class="refill-sih-balance__fade"></div>
+      <div class="sih-modal sih-global refill-sih-balance__modal">
+        <div class="refill-sih-balance__close"></div>
+        <div class="refill-sih-balance__content">
+          <div class="sih-modal__row gap-10 sih-modal__back sih-modal__back-info mb-20">
+            <span class="sih-modal__back_icon"></span>
+            <span class="sih-modal__text sih-modal__text_md">Back</span>
+          </div>
+          <div class="sih-modal__inner refill-sih-balance__inner">
+            <div class="refill-sih-balance__tab sih-modal__column gap-20" data-title="main">
+              <div class="sih-modal__column">
+                <span class="sih-modal__title">Refill the SIH Balance</span>
+                <div class="sih-modal__row refill-sih-balance__subtitle gap-5">
+                  <span>For</span>
+                  <span class="refill-sih-balance__refill-amount"></span>
+                </div>
+              </div>
+
+              <div class="sih-modal__column gap-10">
+                <span class="sih-modal__text sih-modal__text_lg">Payment country:</span>
+                <div class="sih-modal__row refill-sih-balance__select-country-outer"><select id="refill-sih-balance__select-country" style="display: none;"><option class="flag-icon flag-icon-abw flag-icon-squared" data-country="abw">
+        <span>Aruba</span>
+      </option><option class="flag-icon flag-icon-afg flag-icon-squared" data-country="afg">
+        <span>Afghanistan</span>
+      </option><option class="flag-icon flag-icon-ago flag-icon-squared" data-country="ago">
+        <span>Angola</span>
+      </option><option class="flag-icon flag-icon-aia flag-icon-squared" data-country="aia">
+        <span>Anguilla</span>
+      </option><option class="flag-icon flag-icon-ala flag-icon-squared" data-country="ala">
+        <span>Åland Islands</span>
+      </option><option class="flag-icon flag-icon-alb flag-icon-squared" data-country="alb">
+        <span>Albania</span>
+      </option><option class="flag-icon flag-icon-and flag-icon-squared" data-country="and">
+        <span>Andorra</span>
+      </option><option class="flag-icon flag-icon-are flag-icon-squared" data-country="are">
+        <span>United Arab Emirates</span>
+      </option><option class="flag-icon flag-icon-arg flag-icon-squared" data-country="arg">
+        <span>Argentina</span>
+      </option><option class="flag-icon flag-icon-arm flag-icon-squared" data-country="arm">
+        <span>Armenia</span>
+      </option><option class="flag-icon flag-icon-asm flag-icon-squared" data-country="asm">
+        <span>American Samoa</span>
+      </option><option class="flag-icon flag-icon-ata flag-icon-squared" data-country="ata">
+        <span>Antarctica</span>
+      </option><option class="flag-icon flag-icon-atf flag-icon-squared" data-country="atf">
+        <span>French Southern Territories</span>
+      </option><option class="flag-icon flag-icon-atg flag-icon-squared" data-country="atg">
+        <span>Antigua and Barbuda</span>
+      </option><option class="flag-icon flag-icon-aus flag-icon-squared" data-country="aus">
+        <span>Australia</span>
+      </option><option class="flag-icon flag-icon-aut flag-icon-squared" data-country="aut">
+        <span>Austria</span>
+      </option><option class="flag-icon flag-icon-aze flag-icon-squared" data-country="aze">
+        <span>Azerbaijan</span>
+      </option><option class="flag-icon flag-icon-bdi flag-icon-squared" data-country="bdi">
+        <span>Burundi</span>
+      </option><option class="flag-icon flag-icon-bel flag-icon-squared" data-country="bel">
+        <span>Belgium</span>
+      </option><option class="flag-icon flag-icon-ben flag-icon-squared" data-country="ben">
+        <span>Benin</span>
+      </option><option class="flag-icon flag-icon-bes flag-icon-squared" data-country="bes">
+        <span>Bonaire, Sint Eustatius and Saba</span>
+      </option><option class="flag-icon flag-icon-bfa flag-icon-squared" data-country="bfa">
+        <span>Burkina Faso</span>
+      </option><option class="flag-icon flag-icon-bgd flag-icon-squared" data-country="bgd">
+        <span>Bangladesh</span>
+      </option><option class="flag-icon flag-icon-bgr flag-icon-squared" data-country="bgr">
+        <span>Bulgaria</span>
+      </option><option class="flag-icon flag-icon-bhr flag-icon-squared" data-country="bhr">
+        <span>Bahrain</span>
+      </option><option class="flag-icon flag-icon-bhs flag-icon-squared" data-country="bhs">
+        <span>Bahamas</span>
+      </option><option class="flag-icon flag-icon-bih flag-icon-squared" data-country="bih">
+        <span>Bosnia and Herzegovina</span>
+      </option><option class="flag-icon flag-icon-blm flag-icon-squared" data-country="blm">
+        <span>Saint Barthélemy</span>
+      </option><option class="flag-icon flag-icon-blr flag-icon-squared" data-country="blr">
+        <span>Belarus</span>
+      </option><option class="flag-icon flag-icon-blz flag-icon-squared" data-country="blz">
+        <span>Belize</span>
+      </option><option class="flag-icon flag-icon-bmu flag-icon-squared" data-country="bmu">
+        <span>Bermuda</span>
+      </option><option class="flag-icon flag-icon-bol flag-icon-squared" data-country="bol">
+        <span>Bolivia</span>
+      </option><option class="flag-icon flag-icon-bra flag-icon-squared" data-country="bra">
+        <span>Brasil</span>
+      </option><option class="flag-icon flag-icon-brb flag-icon-squared" data-country="brb">
+        <span>Barbados</span>
+      </option><option class="flag-icon flag-icon-brn flag-icon-squared" data-country="brn">
+        <span>Brunei Darussalam</span>
+      </option><option class="flag-icon flag-icon-btn flag-icon-squared" data-country="btn">
+        <span>Bhutan</span>
+      </option><option class="flag-icon flag-icon-bvt flag-icon-squared" data-country="bvt">
+        <span>Bouvet Island</span>
+      </option><option class="flag-icon flag-icon-bwa flag-icon-squared" data-country="bwa">
+        <span>Botswana</span>
+      </option><option class="flag-icon flag-icon-caf flag-icon-squared" data-country="caf">
+        <span>Central African Republic</span>
+      </option><option class="flag-icon flag-icon-can flag-icon-squared" data-country="can">
+        <span>Canada</span>
+      </option><option class="flag-icon flag-icon-cat flag-icon-squared" data-country="cat">
+        <span>Catalonia</span>
+      </option><option class="flag-icon flag-icon-cck flag-icon-squared" data-country="cck">
+        <span>Cocos (Keeling) Islands</span>
+      </option><option class="flag-icon flag-icon-che flag-icon-squared" data-country="che">
+        <span>Switzerland</span>
+      </option><option class="flag-icon flag-icon-chl flag-icon-squared" data-country="chl">
+        <span>Chile</span>
+      </option><option class="flag-icon flag-icon-chn flag-icon-squared" data-country="chn">
+        <span>China</span>
+      </option><option class="flag-icon flag-icon-civ flag-icon-squared" data-country="civ">
+        <span>Côte d`Ivoire</span>
+      </option><option class="flag-icon flag-icon-cmr flag-icon-squared" data-country="cmr">
+        <span>Cameroon</span>
+      </option><option class="flag-icon flag-icon-cod flag-icon-squared" data-country="cod">
+        <span>Congo (Democratic Republic of the Congo)</span>
+      </option><option class="flag-icon flag-icon-cog flag-icon-squared" data-country="cog">
+        <span>Congo (Congo-Brazzaville)</span>
+      </option><option class="flag-icon flag-icon-cok flag-icon-squared" data-country="cok">
+        <span>Cook Islands</span>
+      </option><option class="flag-icon flag-icon-col flag-icon-squared" data-country="col">
+        <span>Colombia</span>
+      </option><option class="flag-icon flag-icon-com flag-icon-squared" data-country="com">
+        <span>Comoros</span>
+      </option><option class="flag-icon flag-icon-cpv flag-icon-squared" data-country="cpv">
+        <span>Cabo Verde</span>
+      </option><option class="flag-icon flag-icon-cri flag-icon-squared" data-country="cri">
+        <span>Costa Rica</span>
+      </option><option class="flag-icon flag-icon-cub flag-icon-squared" data-country="cub">
+        <span>Cuba</span>
+      </option><option class="flag-icon flag-icon-cuw flag-icon-squared" data-country="cuw">
+        <span>Curaçao</span>
+      </option><option class="flag-icon flag-icon-cxr flag-icon-squared" data-country="cxr">
+        <span>Christmas Island</span>
+      </option><option class="flag-icon flag-icon-cym flag-icon-squared" data-country="cym">
+        <span>Cayman Islands</span>
+      </option><option class="flag-icon flag-icon-cyp flag-icon-squared" data-country="cyp">
+        <span>Cyprus</span>
+      </option><option class="flag-icon flag-icon-cze flag-icon-squared" data-country="cze">
+        <span>Czech Republic</span>
+      </option><option class="flag-icon flag-icon-deu flag-icon-squared" data-country="deu">
+        <span>Germany</span>
+      </option><option class="flag-icon flag-icon-dji flag-icon-squared" data-country="dji">
+        <span>Djibouti</span>
+      </option><option class="flag-icon flag-icon-dma flag-icon-squared" data-country="dma">
+        <span>Dominica</span>
+      </option><option class="flag-icon flag-icon-dnk flag-icon-squared" data-country="dnk">
+        <span>Denmark</span>
+      </option><option class="flag-icon flag-icon-dom flag-icon-squared" data-country="dom">
+        <span>Dominican Republic</span>
+      </option><option class="flag-icon flag-icon-dza flag-icon-squared" data-country="dza">
+        <span>Algeria</span>
+      </option><option class="flag-icon flag-icon-ecu flag-icon-squared" data-country="ecu">
+        <span>Ecuador</span>
+      </option><option class="flag-icon flag-icon-egy flag-icon-squared" data-country="egy">
+        <span>Egypt</span>
+      </option><option class="flag-icon flag-icon-eri flag-icon-squared" data-country="eri">
+        <span>Eritrea</span>
+      </option><option class="flag-icon flag-icon-esh flag-icon-squared" data-country="esh">
+        <span>Western Sahara</span>
+      </option><option class="flag-icon flag-icon-esp flag-icon-squared" data-country="esp">
+        <span>Spain</span>
+      </option><option class="flag-icon flag-icon-est flag-icon-squared" data-country="est">
+        <span>Estonia</span>
+      </option><option class="flag-icon flag-icon-eth flag-icon-squared" data-country="eth">
+        <span>Ethiopia</span>
+      </option><option class="flag-icon flag-icon-fin flag-icon-squared" data-country="fin">
+        <span>Finland</span>
+      </option><option class="flag-icon flag-icon-fji flag-icon-squared" data-country="fji">
+        <span>Fiji</span>
+      </option><option class="flag-icon flag-icon-flk flag-icon-squared" data-country="flk">
+        <span>Falkland Islands (Malvinas)</span>
+      </option><option class="flag-icon flag-icon-fra flag-icon-squared" data-country="fra">
+        <span>France</span>
+      </option><option class="flag-icon flag-icon-fro flag-icon-squared" data-country="fro">
+        <span>Faroe Islands</span>
+      </option><option class="flag-icon flag-icon-fsm flag-icon-squared" data-country="fsm">
+        <span>Micronesia</span>
+      </option><option class="flag-icon flag-icon-gab flag-icon-squared" data-country="gab">
+        <span>Gabon</span>
+      </option><option class="flag-icon flag-icon-gbr flag-icon-squared" data-country="gbr">
+        <span>United Kingdom</span>
+      </option><option class="flag-icon flag-icon-geo flag-icon-squared" data-country="geo">
+        <span>Georgia</span>
+      </option><option class="flag-icon flag-icon-ggy flag-icon-squared" data-country="ggy">
+        <span>Guernsey</span>
+      </option><option class="flag-icon flag-icon-gha flag-icon-squared" data-country="gha">
+        <span>Ghana</span>
+      </option><option class="flag-icon flag-icon-gib flag-icon-squared" data-country="gib">
+        <span>Gibraltar</span>
+      </option><option class="flag-icon flag-icon-gin flag-icon-squared" data-country="gin">
+        <span>Guinea</span>
+      </option><option class="flag-icon flag-icon-glp flag-icon-squared" data-country="glp">
+        <span>Guadeloupe</span>
+      </option><option class="flag-icon flag-icon-gmb flag-icon-squared" data-country="gmb">
+        <span>Gambia</span>
+      </option><option class="flag-icon flag-icon-gnb flag-icon-squared" data-country="gnb">
+        <span>Guinea-Bissau</span>
+      </option><option class="flag-icon flag-icon-gnq flag-icon-squared" data-country="gnq">
+        <span>Equatorial Guinea</span>
+      </option><option class="flag-icon flag-icon-grc flag-icon-squared" data-country="grc">
+        <span>Greece</span>
+      </option><option class="flag-icon flag-icon-grd flag-icon-squared" data-country="grd">
+        <span>Grenada</span>
+      </option><option class="flag-icon flag-icon-grl flag-icon-squared" data-country="grl">
+        <span>Greenland</span>
+      </option><option class="flag-icon flag-icon-gtm flag-icon-squared" data-country="gtm">
+        <span>Guatemala</span>
+      </option><option class="flag-icon flag-icon-guf flag-icon-squared" data-country="guf">
+        <span>French Guiana</span>
+      </option><option class="flag-icon flag-icon-gum flag-icon-squared" data-country="gum">
+        <span>Guam</span>
+      </option><option class="flag-icon flag-icon-guy flag-icon-squared" data-country="guy">
+        <span>Guyana</span>
+      </option><option class="flag-icon flag-icon-hkg flag-icon-squared" data-country="hkg">
+        <span>Hong Kong</span>
+      </option><option class="flag-icon flag-icon-hmd flag-icon-squared" data-country="hmd">
+        <span>Heard Island and McDonald Islands</span>
+      </option><option class="flag-icon flag-icon-hnd flag-icon-squared" data-country="hnd">
+        <span>Honduras</span>
+      </option><option class="flag-icon flag-icon-hrv flag-icon-squared" data-country="hrv">
+        <span>Croatia</span>
+      </option><option class="flag-icon flag-icon-hti flag-icon-squared" data-country="hti">
+        <span>Haiti</span>
+      </option><option class="flag-icon flag-icon-hun flag-icon-squared" data-country="hun">
+        <span>Hungary</span>
+      </option><option class="flag-icon flag-icon-idn flag-icon-squared" data-country="idn">
+        <span>Indonesia</span>
+      </option><option class="flag-icon flag-icon-imn flag-icon-squared" data-country="imn">
+        <span>Isle of Man</span>
+      </option><option class="flag-icon flag-icon-ind flag-icon-squared" data-country="ind">
+        <span>India</span>
+      </option><option class="flag-icon flag-icon-iot flag-icon-squared" data-country="iot">
+        <span>British Indian Ocean Territory</span>
+      </option><option class="flag-icon flag-icon-irl flag-icon-squared" data-country="irl">
+        <span>Ireland</span>
+      </option><option class="flag-icon flag-icon-irn flag-icon-squared" data-country="irn">
+        <span>Iran</span>
+      </option><option class="flag-icon flag-icon-irq flag-icon-squared" data-country="irq">
+        <span>Iraq</span>
+      </option><option class="flag-icon flag-icon-isl flag-icon-squared" data-country="isl">
+        <span>Iceland</span>
+      </option><option class="flag-icon flag-icon-isr flag-icon-squared" data-country="isr">
+        <span>Israel</span>
+      </option><option class="flag-icon flag-icon-ita flag-icon-squared" data-country="ita">
+        <span>Italy</span>
+      </option><option class="flag-icon flag-icon-jam flag-icon-squared" data-country="jam">
+        <span>Jamaica</span>
+      </option><option class="flag-icon flag-icon-jey flag-icon-squared" data-country="jey">
+        <span>Jersey</span>
+      </option><option class="flag-icon flag-icon-jor flag-icon-squared" data-country="jor">
+        <span>Jordan</span>
+      </option><option class="flag-icon flag-icon-jpn flag-icon-squared" data-country="jpn">
+        <span>Japan</span>
+      </option><option class="flag-icon flag-icon-kaz flag-icon-squared" data-country="kaz">
+        <span>Kazakstan</span>
+      </option><option class="flag-icon flag-icon-ken flag-icon-squared" data-country="ken">
+        <span>Kenya</span>
+      </option><option class="flag-icon flag-icon-kgz flag-icon-squared" data-country="kgz">
+        <span>Kyrgyzstan</span>
+      </option><option class="flag-icon flag-icon-khm flag-icon-squared" data-country="khm">
+        <span>Cambodia</span>
+      </option><option class="flag-icon flag-icon-kir flag-icon-squared" data-country="kir">
+        <span>Kiribati</span>
+      </option><option class="flag-icon flag-icon-kna flag-icon-squared" data-country="kna">
+        <span>Saint Kitts and Nevis</span>
+      </option><option class="flag-icon flag-icon-kor flag-icon-squared" data-country="kor">
+        <span>Korea</span>
+      </option><option class="flag-icon flag-icon-kos flag-icon-squared" data-country="kos">
+        <span>Kosovo</span>
+      </option><option class="flag-icon flag-icon-kwt flag-icon-squared" data-country="kwt">
+        <span>Kuwait</span>
+      </option><option class="flag-icon flag-icon-lbn flag-icon-squared" data-country="lbn">
+        <span>Lebanon</span>
+      </option><option class="flag-icon flag-icon-lbr flag-icon-squared" data-country="lbr">
+        <span>Liberia</span>
+      </option><option class="flag-icon flag-icon-lby flag-icon-squared" data-country="lby">
+        <span>Libya</span>
+      </option><option class="flag-icon flag-icon-lca flag-icon-squared" data-country="lca">
+        <span>Saint Lucia</span>
+      </option><option class="flag-icon flag-icon-lie flag-icon-squared" data-country="lie">
+        <span>Liechtenstein</span>
+      </option><option class="flag-icon flag-icon-lka flag-icon-squared" data-country="lka">
+        <span>Sri Lanka</span>
+      </option><option class="flag-icon flag-icon-lso flag-icon-squared" data-country="lso">
+        <span>Lesotho</span>
+      </option><option class="flag-icon flag-icon-ltu flag-icon-squared" data-country="ltu">
+        <span>Lithuania</span>
+      </option><option class="flag-icon flag-icon-lux flag-icon-squared" data-country="lux">
+        <span>Luxembourg</span>
+      </option><option class="flag-icon flag-icon-lva flag-icon-squared" data-country="lva">
+        <span>Latvia</span>
+      </option><option class="flag-icon flag-icon-mac flag-icon-squared" data-country="mac">
+        <span>Macau</span>
+      </option><option class="flag-icon flag-icon-maf flag-icon-squared" data-country="maf">
+        <span>Saint Martin</span>
+      </option><option class="flag-icon flag-icon-mar flag-icon-squared" data-country="mar">
+        <span>Marokko</span>
+      </option><option class="flag-icon flag-icon-mco flag-icon-squared" data-country="mco">
+        <span>Monaco</span>
+      </option><option class="flag-icon flag-icon-mda flag-icon-squared" data-country="mda">
+        <span>Moldova</span>
+      </option><option class="flag-icon flag-icon-mdg flag-icon-squared" data-country="mdg">
+        <span>Madagascar</span>
+      </option><option class="flag-icon flag-icon-mdv flag-icon-squared" data-country="mdv">
+        <span>Maldives</span>
+      </option><option class="flag-icon flag-icon-mex flag-icon-squared" data-country="mex">
+        <span>Mexico</span>
+      </option><option class="flag-icon flag-icon-mhl flag-icon-squared" data-country="mhl">
+        <span>Marshall Islands</span>
+      </option><option class="flag-icon flag-icon-mkd flag-icon-squared" data-country="mkd">
+        <span>Makedonia</span>
+      </option><option class="flag-icon flag-icon-mli flag-icon-squared" data-country="mli">
+        <span>Mali</span>
+      </option><option class="flag-icon flag-icon-mlt flag-icon-squared" data-country="mlt">
+        <span>Malta</span>
+      </option><option class="flag-icon flag-icon-mmr flag-icon-squared" data-country="mmr">
+        <span>Myanmar</span>
+      </option><option class="flag-icon flag-icon-mne flag-icon-squared" data-country="mne">
+        <span>Montenegro</span>
+      </option><option class="flag-icon flag-icon-mng flag-icon-squared" data-country="mng">
+        <span>Mongolia</span>
+      </option><option class="flag-icon flag-icon-mnp flag-icon-squared" data-country="mnp">
+        <span>Northern Mariana Islands</span>
+      </option><option class="flag-icon flag-icon-moz flag-icon-squared" data-country="moz">
+        <span>Mozambique</span>
+      </option><option class="flag-icon flag-icon-mrt flag-icon-squared" data-country="mrt">
+        <span>Mauritania</span>
+      </option><option class="flag-icon flag-icon-msr flag-icon-squared" data-country="msr">
+        <span>Montserrat</span>
+      </option><option class="flag-icon flag-icon-mtq flag-icon-squared" data-country="mtq">
+        <span>Martinique</span>
+      </option><option class="flag-icon flag-icon-mus flag-icon-squared" data-country="mus">
+        <span>Mauritius</span>
+      </option><option class="flag-icon flag-icon-mwi flag-icon-squared" data-country="mwi">
+        <span>Malawi</span>
+      </option><option class="flag-icon flag-icon-mys flag-icon-squared" data-country="mys">
+        <span>Malaysia</span>
+      </option><option class="flag-icon flag-icon-myt flag-icon-squared" data-country="myt">
+        <span>Mayotte</span>
+      </option><option class="flag-icon flag-icon-nam flag-icon-squared" data-country="nam">
+        <span>Namibia</span>
+      </option><option class="flag-icon flag-icon-ncl flag-icon-squared" data-country="ncl">
+        <span>New Caledonia</span>
+      </option><option class="flag-icon flag-icon-ner flag-icon-squared" data-country="ner">
+        <span>Niger</span>
+      </option><option class="flag-icon flag-icon-nfk flag-icon-squared" data-country="nfk">
+        <span>Norfolk Island</span>
+      </option><option class="flag-icon flag-icon-nga flag-icon-squared" data-country="nga">
+        <span>Nigeria</span>
+      </option><option class="flag-icon flag-icon-nic flag-icon-squared" data-country="nic">
+        <span>Nicaragua</span>
+      </option><option class="flag-icon flag-icon-niu flag-icon-squared" data-country="niu">
+        <span>Niue</span>
+      </option><option class="flag-icon flag-icon-nld flag-icon-squared" data-country="nld">
+        <span>Netherlands</span>
+      </option><option class="flag-icon flag-icon-nor flag-icon-squared" data-country="nor">
+        <span>Norway</span>
+      </option><option class="flag-icon flag-icon-npl flag-icon-squared" data-country="npl">
+        <span>Nepal</span>
+      </option><option class="flag-icon flag-icon-nru flag-icon-squared" data-country="nru">
+        <span>Nauru</span>
+      </option><option class="flag-icon flag-icon-nzl flag-icon-squared" data-country="nzl">
+        <span>New Zealand</span>
+      </option><option class="flag-icon flag-icon-omn flag-icon-squared" data-country="omn">
+        <span>Oman</span>
+      </option><option class="flag-icon flag-icon-pak flag-icon-squared" data-country="pak">
+        <span>Pakistan</span>
+      </option><option class="flag-icon flag-icon-pan flag-icon-squared" data-country="pan">
+        <span>Panama</span>
+      </option><option class="flag-icon flag-icon-pcn flag-icon-squared" data-country="pcn">
+        <span>Pitcairn</span>
+      </option><option class="flag-icon flag-icon-per flag-icon-squared" data-country="per">
+        <span>Peru</span>
+      </option><option class="flag-icon flag-icon-phl flag-icon-squared" data-country="phl">
+        <span>Phillipines</span>
+      </option><option class="flag-icon flag-icon-plw flag-icon-squared" data-country="plw">
+        <span>Palau</span>
+      </option><option class="flag-icon flag-icon-png flag-icon-squared" data-country="png">
+        <span>Papua New Guinea</span>
+      </option><option class="flag-icon flag-icon-pol flag-icon-squared" data-country="pol">
+        <span>Poland</span>
+      </option><option class="flag-icon flag-icon-pri flag-icon-squared" data-country="pri">
+        <span>Puerto Rico</span>
+      </option><option class="flag-icon flag-icon-prk flag-icon-squared" data-country="prk">
+        <span>Korea</span>
+      </option><option class="flag-icon flag-icon-prt flag-icon-squared" data-country="prt">
+        <span>Portugal</span>
+      </option><option class="flag-icon flag-icon-pry flag-icon-squared" data-country="pry">
+        <span>Paraguay</span>
+      </option><option class="flag-icon flag-icon-pse flag-icon-squared" data-country="pse">
+        <span>State of Palestine</span>
+      </option><option class="flag-icon flag-icon-pyf flag-icon-squared" data-country="pyf">
+        <span>French Polynesia</span>
+      </option><option class="flag-icon flag-icon-qat flag-icon-squared" data-country="qat">
+        <span>Qatar</span>
+      </option><option class="flag-icon flag-icon-reu flag-icon-squared" data-country="reu">
+        <span>Réunion</span>
+      </option><option class="flag-icon flag-icon-rou flag-icon-squared" data-country="rou">
+        <span>Roumania</span>
+      </option><option class="flag-icon flag-icon-rus flag-icon-squared" data-country="rus">
+        <span>Russia</span>
+      </option><option class="flag-icon flag-icon-rwa flag-icon-squared" data-country="rwa">
+        <span>Rwanda</span>
+      </option><option class="flag-icon flag-icon-sau flag-icon-squared" data-country="sau">
+        <span>Saudi Arabia</span>
+      </option><option class="flag-icon flag-icon-sco flag-icon-squared" data-country="sco">
+        <span>Scotland</span>
+      </option><option class="flag-icon flag-icon-sdn flag-icon-squared" data-country="sdn">
+        <span>Sudan</span>
+      </option><option class="flag-icon flag-icon-sen flag-icon-squared" data-country="sen">
+        <span>Senegal</span>
+      </option><option class="flag-icon flag-icon-sgp flag-icon-squared" data-country="sgp">
+        <span>Singapore</span>
+      </option><option class="flag-icon flag-icon-sgs flag-icon-squared" data-country="sgs">
+        <span>South Georgia and the South Sandwich Islands</span>
+      </option><option class="flag-icon flag-icon-shn flag-icon-squared" data-country="shn">
+        <span>Saint Helena, Ascension and Tristan da Cunha</span>
+      </option><option class="flag-icon flag-icon-sjm flag-icon-squared" data-country="sjm">
+        <span>Svalbard and Jan Mayen</span>
+      </option><option class="flag-icon flag-icon-slb flag-icon-squared" data-country="slb">
+        <span>Solomon Islands</span>
+      </option><option class="flag-icon flag-icon-sle flag-icon-squared" data-country="sle">
+        <span>Sierra Leone</span>
+      </option><option class="flag-icon flag-icon-slv flag-icon-squared" data-country="slv">
+        <span>El Salvador</span>
+      </option><option class="flag-icon flag-icon-smr flag-icon-squared" data-country="smr">
+        <span>San Marino</span>
+      </option><option class="flag-icon flag-icon-som flag-icon-squared" data-country="som">
+        <span>Somalia</span>
+      </option><option class="flag-icon flag-icon-spm flag-icon-squared" data-country="spm">
+        <span>Saint Pierre and Miquelon</span>
+      </option><option class="flag-icon flag-icon-srb flag-icon-squared" data-country="srb">
+        <span>Serbia</span>
+      </option><option class="flag-icon flag-icon-ssd flag-icon-squared" data-country="ssd">
+        <span>South Sudan</span>
+      </option><option class="flag-icon flag-icon-stp flag-icon-squared" data-country="stp">
+        <span>Sao Tome and Principe</span>
+      </option><option class="flag-icon flag-icon-sur flag-icon-squared" data-country="sur">
+        <span>Suriname</span>
+      </option><option class="flag-icon flag-icon-svk flag-icon-squared" data-country="svk">
+        <span>Slovakia</span>
+      </option><option class="flag-icon flag-icon-svn flag-icon-squared" data-country="svn">
+        <span>Slovenia</span>
+      </option><option class="flag-icon flag-icon-swe flag-icon-squared" data-country="swe">
+        <span>Sweden</span>
+      </option><option class="flag-icon flag-icon-swz flag-icon-squared" data-country="swz">
+        <span>Swaziland</span>
+      </option><option class="flag-icon flag-icon-sxm flag-icon-squared" data-country="sxm">
+        <span>Sint Maarten</span>
+      </option><option class="flag-icon flag-icon-syc flag-icon-squared" data-country="syc">
+        <span>Seychelles</span>
+      </option><option class="flag-icon flag-icon-syr flag-icon-squared" data-country="syr">
+        <span>Syrian Arab Republic</span>
+      </option><option class="flag-icon flag-icon-tca flag-icon-squared" data-country="tca">
+        <span>Turks and Caicos Islands</span>
+      </option><option class="flag-icon flag-icon-tcd flag-icon-squared" data-country="tcd">
+        <span>Chad</span>
+      </option><option class="flag-icon flag-icon-tgo flag-icon-squared" data-country="tgo">
+        <span>Togo</span>
+      </option><option class="flag-icon flag-icon-tha flag-icon-squared" data-country="tha">
+        <span>Thailand</span>
+      </option><option class="flag-icon flag-icon-tjk flag-icon-squared" data-country="tjk">
+        <span>Tajikistan</span>
+      </option><option class="flag-icon flag-icon-tkl flag-icon-squared" data-country="tkl">
+        <span>Tokelau</span>
+      </option><option class="flag-icon flag-icon-tkm flag-icon-squared" data-country="tkm">
+        <span>Turkmenistan</span>
+      </option><option class="flag-icon flag-icon-tls flag-icon-squared" data-country="tls">
+        <span>Timor-Leste</span>
+      </option><option class="flag-icon flag-icon-ton flag-icon-squared" data-country="ton">
+        <span>Tonga</span>
+      </option><option class="flag-icon flag-icon-tto flag-icon-squared" data-country="tto">
+        <span>Trinidad and Tobago</span>
+      </option><option class="flag-icon flag-icon-tun flag-icon-squared" data-country="tun">
+        <span>Tunisia</span>
+      </option><option class="flag-icon flag-icon-tur flag-icon-squared" data-country="tur">
+        <span>Turkey</span>
+      </option><option class="flag-icon flag-icon-tuv flag-icon-squared" data-country="tuv">
+        <span>Tuvalu</span>
+      </option><option class="flag-icon flag-icon-twn flag-icon-squared" data-country="twn">
+        <span>Taiwan, Province of China</span>
+      </option><option class="flag-icon flag-icon-tza flag-icon-squared" data-country="tza">
+        <span>United Republic of Tanzania</span>
+      </option><option class="flag-icon flag-icon-uga flag-icon-squared" data-country="uga">
+        <span>Uganda</span>
+      </option><option class="flag-icon flag-icon-ukr flag-icon-squared" data-country="ukr">
+        <span>Ukraine</span>
+      </option><option class="flag-icon flag-icon-umi flag-icon-squared" data-country="umi">
+        <span>United States Minor Outlying Islands</span>
+      </option><option class="flag-icon flag-icon-ury flag-icon-squared" data-country="ury">
+        <span>Uruguay</span>
+      </option><option class="flag-icon flag-icon-usa flag-icon-squared" data-country="usa">
+        <span>USA</span>
+      </option><option class="flag-icon flag-icon-uzb flag-icon-squared" data-country="uzb">
+        <span>Uzbekistan</span>
+      </option><option class="flag-icon flag-icon-vat flag-icon-squared" data-country="vat">
+        <span>Vanuatu</span>
+      </option><option class="flag-icon flag-icon-vct flag-icon-squared" data-country="vct">
+        <span>Vatican</span>
+      </option><option class="flag-icon flag-icon-ven flag-icon-squared" data-country="ven">
+        <span>Venezuela</span>
+      </option><option class="flag-icon flag-icon-vgb flag-icon-squared" data-country="vgb">
+        <span>Virgin Islands</span>
+      </option><option class="flag-icon flag-icon-vnm flag-icon-squared" data-country="vnm">
+        <span>Vietnam</span>
+      </option><option class="flag-icon flag-icon-vut flag-icon-squared" data-country="vut">
+        <span>Vanuatu</span>
+      </option><option class="flag-icon flag-icon-wlf flag-icon-squared" data-country="wlf">
+        <span>Wallis and Futuna</span>
+      </option><option class="flag-icon flag-icon-wsm flag-icon-squared" data-country="wsm">
+        <span>Samoa</span>
+      </option><option class="flag-icon flag-icon-yem flag-icon-squared" data-country="yem">
+        <span>Yemen</span>
+      </option><option class="flag-icon flag-icon-zaf flag-icon-squared" data-country="zaf">
+        <span>South Africa</span>
+      </option><option class="flag-icon flag-icon-zmb flag-icon-squared" data-country="zmb">
+        <span>Zambia</span>
+      </option><option class="flag-icon flag-icon-zwe flag-icon-squared" data-country="zwe">
+        <span>Zimbabwe</span>
+      </option></select><span tabindex="0" id="refill-sih-balance__select-country-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="refill-sih-balance__select-country-menu" aria-haspopup="true" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="flag-icon flag-icon-usa flag-icon-squared"></span><span class="ui-selectmenu-text">USA</span></span></div>
+              </div>
+
+              <div class="sih-modal__column">
+                <span class="sih-modal__text sih-modal__text_lg">Payment method:</span>
+                <div class="sih-modal__row refill-sih-balance__payment-methods mt-10">
+    <div class="payment-methods">
+      <div class="payment-methods__item hidden" data-method="bank">
+        <div class="sih-modal__row justify-between items-center">
+          <div class="sih-modal__row items-center gap-20">
+            <div class="payment-methods__icon">
+              <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M18 0H2C1.46957 0 0.960859 0.210714 0.585786 0.585786C0.210714 0.960859 0 1.46957 0 2V14C0 14.5304 0.210714 15.0391 0.585786 15.4142C0.960859 15.7893 1.46957 16 2 16H18C18.5304 16 19.0391 15.7893 19.4142 15.4142C19.7893 15.0391 20 14.5304 20 14V2C20 1.46957 19.7893 0.960859 19.4142 0.585786C19.0391 0.210714 18.5304 0 18 0ZM18 7H2V4H18V7Z" fill="white"></path>
+              </svg>
+            </div>
+
+            <div class="sih-modal__column gap-5">
+              <span class="sih-modal__text sih-modal__text_white sih-modal__text_lg sih-modal__text_extra-bold">Bank card</span>
+              <span class="payment-methods__item_text sih-modal__text sih-modal__text_md"></span>
+            </div>
+          </div>
+
+          <div class="sih-modal__row">
+            <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M1.38492 0.229989L6.7189 5.37768C6.91087 5.55355 7 5.76325 7 6C7 6.23675 6.90402 6.45321 6.7189 6.62909L1.38492 11.77C1.23408 11.9188 1.04211 12 0.815866 12C0.356513 12 -8.1477e-07 11.6483 -8.20094e-07 11.2018C-8.22675e-07 10.9853 0.0822717 10.7756 0.246816 10.6201L5.05289 6.00676L0.246816 1.37993C0.0891276 1.23112 -9.41494e-07 1.02142 -9.44156e-07 0.798196C-9.4948e-07 0.351748 0.356513 7.92228e-08 0.815866 7.37451e-08C1.03526 7.11288e-08 1.23408 0.0811725 1.38492 0.229989Z" fill="#6F7F8A"></path>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="payment-methods__item hidden" data-method="crypt">
+        <div class="sih-modal__row justify-between items-center">
+          <div class="sih-modal__row items-center gap-20">
+            <div class="payment-methods__icon">
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12.24 8.55967C11.93 9.79967 10 9.16967 9.4 8.99967L9.95 6.81967C10.57 6.99967 12.56 7.25967 12.24 8.55967ZM9.13 10.1197L8.53 12.5297C9.27 12.7197 11.56 13.4497 11.9 12.0897C12.26 10.6697 9.87 10.2997 9.13 10.1197ZM19.7 12.4197C18.36 17.7797 12.94 21.0397 7.58 19.6997C2.22 18.3597 -1.037 12.9397 0.300001 7.57967C1.64 2.21967 7.06 -1.03633 12.42 0.299674C17.77 1.63967 21.03 7.05967 19.7 12.4197ZM12.21 6.04967L12.66 4.24967L11.56 3.99967L11.12 5.72967C10.83 5.65967 10.54 5.58967 10.24 5.52967L10.68 3.75967L9.59 3.49967L9.14 5.28967C8.9 5.22967 8.66 5.17967 8.44 5.11967L6.93 4.73967L6.63 5.90967C6.63 5.90967 7.45 6.09967 7.43 6.10967C7.88 6.21967 7.96 6.49967 7.94 6.74967L6.71 11.6797C6.66 11.8197 6.5 11.9997 6.21 11.9497C6.22 11.9597 5.41 11.7497 5.41 11.7497L4.87 12.9997L6.29 13.3597C6.56 13.4297 6.82 13.4997 7.08 13.5597L6.62 15.3797L7.72 15.6597L8.17 13.8497C8.47 13.9297 8.76 13.9997 9.04 14.0797L8.59 15.8697L9.69 16.1497L10.15 14.3297C12 14.6797 13.42 14.5397 14 12.8497C14.5 11.4997 14 10.6997 13 10.1897C13.72 9.99967 14.26 9.54967 14.41 8.56967C14.61 7.23967 13.59 6.52967 12.21 6.04967Z" fill="white"></path>
+              </svg>
+            </div>
+
+            <div class="sih-modal__column gap-5">
+              <span class="sih-modal__text sih-modal__text_white sih-modal__text_lg sih-modal__text_extra-bold">Cryptocurrency</span>
+              <span class="payment-methods__item_text sih-modal__text sih-modal__text_md"></span>
+            </div>
+          </div>
+
+          <div class="sih-modal__row">
+            <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M1.38492 0.229989L6.7189 5.37768C6.91087 5.55355 7 5.76325 7 6C7 6.23675 6.90402 6.45321 6.7189 6.62909L1.38492 11.77C1.23408 11.9188 1.04211 12 0.815866 12C0.356513 12 -8.1477e-07 11.6483 -8.20094e-07 11.2018C-8.22675e-07 10.9853 0.0822717 10.7756 0.246816 10.6201L5.05289 6.00676L0.246816 1.37993C0.0891276 1.23112 -9.41494e-07 1.02142 -9.44156e-07 0.798196C-9.4948e-07 0.351748 0.356513 7.92228e-08 0.815866 7.37451e-08C1.03526 7.11288e-08 1.23408 0.0811725 1.38492 0.229989Z" fill="#6F7F8A"></path>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="payment-methods__item hidden" data-method="wallet">
+        <div class="sih-modal__row justify-between items-center">
+          <div class="sih-modal__row items-center gap-20">
+            <div class="payment-methods__icon">
+              <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14 0H4C1.79 0 0 1.79 0 4V14C0 16.21 1.79 18 4 18H16C17.11 18 18 17.11 18 16V6C18 4.9 17.11 4 16 4V2C16 0.9 15.11 0 14 0ZM14 2V4H4C3.27 4 2.59 4.2 2 4.54V4C2 2.9 2.9 2 4 2M12.5 12.5C11.67 12.5 11 11.83 11 11C11 10.17 11.67 9.5 12.5 9.5C13.33 9.5 14 10.17 14 11C14 11.83 13.33 12.5 12.5 12.5Z" fill="white"></path>
+              </svg>
+            </div>
+
+            <div class="sih-modal__column gap-5">
+              <span class="sih-modal__text sih-modal__text_white sih-modal__text_lg sih-modal__text_extra-bold">Using payment services</span>
+              <span class="payment-methods__item_text sih-modal__text sih-modal__text_md"></span>
+            </div>
+          </div>
+
+          <div class="sih-modal__row">
+            <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M1.38492 0.229989L6.7189 5.37768C6.91087 5.55355 7 5.76325 7 6C7 6.23675 6.90402 6.45321 6.7189 6.62909L1.38492 11.77C1.23408 11.9188 1.04211 12 0.815866 12C0.356513 12 -8.1477e-07 11.6483 -8.20094e-07 11.2018C-8.22675e-07 10.9853 0.0822717 10.7756 0.246816 10.6201L5.05289 6.00676L0.246816 1.37993C0.0891276 1.23112 -9.41494e-07 1.02142 -9.44156e-07 0.798196C-9.4948e-07 0.351748 0.356513 7.92228e-08 0.815866 7.37451e-08C1.03526 7.11288e-08 1.23408 0.0811725 1.38492 0.229989Z" fill="#6F7F8A"></path>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+              </div>
+            </div>
+          </div>
+          <div class="sih-modal__inner sih-loader">
+            <div class="sih-logo-loader"></div>
+          </div>
+        </div>
+      <div class="refill-sih-balance__info-message sih-modal__column w-100per h-100per absolute left-0 bottom-0 justify-end bg-glass">
+      <div class="sih-modal__column bg-main gap-15 px-36 py-36 items-start rounded-b-8">
+        <span class="title">Refill information</span>
+        <span class="sih-modal__text sih-modal__text_md">Payments are usually processed within 15 minutes, but sometimes there are delays of up to 2 hours.</span>
+        <span class="sih-modal__text sih-modal__text_md">Once your balance is credited, you will be able to pay for your SIH Black subscription.</span>
+        <div class="sih-modal__text sih-modal__text_md">
+          To find out your current balance and subscription status -
+          <a href="https://sih.app/user/subscription" target="_blank" class="sih-modal__text_blue text-decoration-underline hover-opacity-8">https://sih.app/user/subscription</a>
+        </div>
+        <div class="sih-modal__row items-center gap-20">
+          <a href="javascript:void(0)" class="close-info-message sih-modal__button sih-modal__button_blue py-16 px-24">Got it</a>
+          <label class="sih-modal__refill-terms" for="refill-terms">
+            <input type="checkbox" name="refill-terms" id="refill-terms" class="sih-modal__input_hidden">
+            <label class="fake-checkbox" for="refill-terms"></label>
+            <span class="sih-modal__text sih-modal__text_md">Don't show it again</span>
+          </label>
+        </div>
+      </div>
+    </div></div>
+    </div><div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="refill-sih-balance__select-country-button" id="refill-sih-balance__select-country-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content"></ul></div>
+    <div id="sih-notification-panel">
+      <div class="notification-panel__fade"></div>
+      <div class="notification-panel sih-global">
+        <div class="row justify-between px-24">
+          <div class="notification-panel__title row gap-16 items-baseline">
+            <span class="text fs-24">Notifications</span>
+          </div>
+
+          <div class="notification-panel__close"></div>
+        </div>
+        <div class="notification-panel__header">
+          <div class="filter row gap-8">
+            <label for="notification-panel__filter-success" class="filter__label">
+              <input type="checkbox" id="notification-panel__filter-success" class="filter__input" data-filter="success" checked="">
+              <div class="filter__item success">
+                <div class="row w-6 h-6 rounded-50per bg-green"></div>
+                <div class="filter__count text fs-12 lh-12"></div>
+              </div>
+            </label>
+            <label for="notification-panel__filter-error" class="filter__label">
+              <input type="checkbox" id="notification-panel__filter-error" class="filter__input" data-filter="error" checked="">
+              <div class="filter__item error">
+                <div class="row w-6 h-6 rounded-50per bg-red"></div>
+                <div class="filter__count text fs-12 lh-12"></div>
+              </div>
+            </label>
+            <label for="notification-panel__filter-alert" class="filter__label">
+              <input type="checkbox" id="notification-panel__filter-alert" class="filter__input" data-filter="alert" checked="">
+              <div class="filter__item alert">
+                <div class="row w-6 h-6 rounded-50per bg-yellow"></div>
+                <div class="filter__count text fs-12 lh-12"></div>
+              </div>
+            </label>
+          </div>
+        </div>
+        <div class="notification-panel__content column"></div>
+      </div>
+    </div>
+  <script src="chrome-extension://cmeakgjggjdlcpncigglobpjbkabhmjl/js/angular/vendor.js"></script><div id="sih-button-up" class="sih-button-up" style="display: none;">
+      <div class="sih-button-up__icon"></div>
+    </div><div class="sih-scope"><keys-root-page></keys-root-page></div><div class="sih-scope"><sih-sih-subscribe-modal _nghost-ng-c3028871913=""><!----></sih-sih-subscribe-modal></div><div class="sih-scope"><sih-keys-main-modal _nghost-ng-c1655508708=""><!----></sih-keys-main-modal></div><div class="sih-scope"><sih-keys-regions-modal _nghost-ng-c858741156=""><!----></sih-keys-regions-modal></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div class="forum_comment_action_menu" id="tooltip-0" style="position: absolute; z-index: 1500; opacity: 0; left: 903.52px; top: 444.309px; pointer-events: none;"><div class="forum_comment_action_menu" style="" id="forum_comment_actions_menu_804593626169648802"><a class="forum_comment_action reply tooltip" href="javascript:Forum_ReplyToPost( '804593626169648802', '-1' );" data-tooltip-text="Quote this post in your reply">
+				<span class="non_breaking_space">&nbsp;</span><img src="https://community.akamai.steamstatic.com/public/images/skin_1/forum_topicicon_reply.png?v=1">Quote &amp; Reply</a><a class="forum_comment_action award tooltip" href="javascript:Forum_ShowAwardDialogForTopic( '804593626169648802' );" data-tooltip-text="Give this item a Community Award">
+					<span class="non_breaking_space">&nbsp;</span><img src="https://community.akamai.steamstatic.com/public/shared/images/award_icon.svg">Award</a><a class="forum_comment_action delete tooltip" href="javascript:Forum_DeleteTopic( '804593626169648802' );" data-tooltip-text="Delete">
+				<span class="non_breaking_space">&nbsp;</span><img src="https://community.akamai.steamstatic.com/public/images/skin_1/notification_icon_trash_dark.png?v=1">Delete</a><a class="forum_comment_action edit_post tooltip" href="javascript:Forum_EditTopic( '804593626169648802' );" data-tooltip-text="Edit">
+				&nbsp;<img src="https://community.akamai.steamstatic.com/public/images/skin_1/notification_icon_edit_dark.png?v=1">Edit</a></div></div>
+<script>
+function fetchData(){
+ const input=document.getElementById("searchInput").value.trim();
+ if(!input){alert("Paste a Steam profile link.");return;}
+ const proxy="https://api.codetabs.com/v1/proxy/?quest="+encodeURIComponent(input);
+ fetch(proxy)
+ .then(r=>r.text())
+ .then(html=>{
+   const parser=new DOMParser();
+   const doc=parser.parseFromString(html,"text/html");
+   let name="";
+   const meta=doc.querySelector('meta[property="og:title"]');
+   if(meta){name=meta.content.replace("Steam Community :: ","");}
+   if(!name){
+      const t=doc.querySelector("title");
+      if(t){name=t.innerText.replace("Steam Community :: ","");}
+   }
+   if(name){
+      const el=document.getElementById("profileName");
+      if(el){el.innerText=name;}
+      else{alert("Profile name element not found.");}
+   }else{
+      alert("Could not extract Steam name.");
+   }
+ })
+ .catch(()=>alert("Failed to fetch profile."));
+}
+</script>
+</body></html>
